@@ -1,0 +1,48 @@
+
+<h1>Flood Prediction Model Evaluation</h1>
+
+<h2>Performance Summary</h2>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Accuracy</th>
+      <th>Precision</th>
+      <th>Recall</th>
+      <th>F1</th>
+      <th>AUC-ROC</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>LSTM</th>
+      <td>0.675676</td>
+      <td>0.688889</td>
+      <td>0.756098</td>
+      <td>0.720930</td>
+      <td>0.770140</td>
+    </tr>
+    <tr>
+      <th>CNN</th>
+      <td>0.648649</td>
+      <td>0.653061</td>
+      <td>0.780488</td>
+      <td>0.711111</td>
+      <td>0.677014</td>
+    </tr>
+    <tr>
+      <th>Hybrid</th>
+      <td>0.689189</td>
+      <td>0.714286</td>
+      <td>0.731707</td>
+      <td>0.722892</td>
+      <td>0.779749</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>Key Findings</h2>
+<ul>
+    <li><b>Best Model</b>: Hybrid achieved highest accuracy (68.92%)</li>
+    <li><b>Temporal Patterns</b>: LSTM showed 75.61% recall vs CNN's 78.05%</li>
+</ul>

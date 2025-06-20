@@ -5,6 +5,13 @@ import os
 import boto3
 from dotenv import load_dotenv
 
+# Attempt to import boto3 with fallback
+try:
+    AWS_AVAILABLE = True
+except ImportError:
+    AWS_AVAILABLE = False
+    print("⚠️ boto3 not available - S3 upload disabled")
+
 load_dotenv()
 
 
@@ -56,6 +63,10 @@ def transform_data():
 
     # 7. Upload to S3
     def upload_to_s3():
+        if not AWS_AVAILABLE:
+            print("⏩ Skipping S3 upload (boto3 not available)")
+            return
+
         try:
             s3 = boto3.client(
                 "s3",
@@ -64,23 +75,20 @@ def transform_data():
                 region_name="us-east-1",
             )
 
-            # Verify bucket exists and is accessible
+            # Verify bucket exists
             s3.head_bucket(Bucket="nigeria-flood-model-data-eda")
 
             s3.upload_file(
                 processed_path,
                 "nigeria-flood-model-data-eda",
                 "processed/transformed_flood_data.csv",
-                ExtraArgs={
-                    "ACL": "bucket-owner-full-control"
-                },  # Ensures proper permissions
+                ExtraArgs={"ACL": "bucket-owner-full-control"},
             )
             print("✅ Uploaded processed data to S3")
         except Exception as e:
             print(f"❌ S3 Upload Error: {str(e)}")
 
     upload_to_s3()
-
     return raw_df
 
 
