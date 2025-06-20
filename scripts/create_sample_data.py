@@ -8,27 +8,62 @@ def create_sample_data():
     # Create directories if needed
     os.makedirs("data/raw", exist_ok=True)
 
-    # Generate synthetic data (2015-2024, 36 states + FCT)
+    # All 36 Nigerian states + FCT
+    nigerian_states = [
+        "Abia",
+        "Adamawa",
+        "Akwa Ibom",
+        "Anambra",
+        "Bauchi",
+        "Bayelsa",
+        "Benue",
+        "Borno",
+        "Cross River",
+        "Delta",
+        "Ebonyi",
+        "Edo",
+        "Ekiti",
+        "Enugu",
+        "Gombe",
+        "Imo",
+        "Jigawa",
+        "Kaduna",
+        "Kano",
+        "Katsina",
+        "Kebbi",
+        "Kogi",
+        "Kwara",
+        "Lagos",
+        "Nasarawa",
+        "Niger",
+        "Ogun",
+        "Ondo",
+        "Osun",
+        "Oyo",
+        "Plateau",
+        "Rivers",
+        "Sokoto",
+        "Taraba",
+        "Yobe",
+        "Zamfara",
+        "FCT Abuja",
+    ]
+
+    # Generate synthetic data (2015-2024)
     np.random.seed(42)
     years = list(range(2015, 2025))
-    states = [f"State_{i}" for i in range(1, 37)] + ["FCT_Abuja"]
     data = []
 
     for year in years:
-        for state in states:
+        for state in nigerian_states:
             # Create realistic correlations
             rainfall = np.random.normal(1800, 400)
             urbanization = np.random.uniform(15, 85)
             drainage = max(0.3, min(0.9, 0.7 - (urbanization / 200)))
 
             # Flood occurrence probability based on factors
-            # FIXED: Ensure probability stays within [0, 1] range
             base_prob = 0.2 + (rainfall - 1600) / 1000 + (100 - drainage * 100) / 200
             flood_prob = max(0.05, min(0.95, base_prob))  # Clamped between 5%-95%
-
-            # FIXED: Ensure probabilities are valid
-            if not 0 <= flood_prob <= 1:
-                flood_prob = 0.3  # Default if calculation fails
 
             data.append(
                 {
@@ -47,8 +82,9 @@ def create_sample_data():
     df = pd.DataFrame(data)
     df.to_csv("data/raw/nigeria_flood_data.csv", index=False)
     print(
-        f"✅ Created sample data with {len(df)} records at ../data/raw/nigeria_flood_data.csv"
+        f"✅ Created sample data with {len(df)} records at data/raw/nigeria_flood_data.csv"
     )
+    print(f"States included: {', '.join(nigerian_states)}")
 
 
 if __name__ == "__main__":
