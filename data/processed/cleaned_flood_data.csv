@@ -1,0 +1,855 @@
+STATE,LGA,COMMUNITY,DATE_OF_OCCURRENCE,PERSONS_AFFECTED,DISPLACED_PERSONS,DATE,YEAR,MONTH,SEASON,SEVERITY_RATIO
+Abia,Bende,Unspecified,,785,0,,,,Rainy,0.0
+Abia,Ohafia,Unspecified,,785,0,,,,Rainy,0.0
+Adamawa,Madagali,11 Communities,24/08/2022,8418,0,2022-08-24,2022.0,8.0,Rainy,0.0
+Adamawa,Demsa,"Bilachi, Bali, Mbongado, Dwam Sabo, Moral, Moro 2, Zuran I, Zuran 2, Kulasala,
+Kuli, Labakuri, Mbumara, Nsarawo Demsa. Mbula and Kabawa",15/08/2022,12996,0,2022-08-15,2022.0,8.0,Rainy,0.0
+Adamawa,Fufore,"Fufore metropolis, Daitsin Hausa, Dula, Dula bwatiye, Nafori",17/07/2022,1711,0,2022-07-17,2022.0,7.0,Rainy,0.0
+Adamawa,Numan,"lmburu, Hayin Gada, Kwakwambe, /urei, gwalam and Gbalang",15/08/2022,7912,0,2022-08-15,2022.0,8.0,Rainy,0.0
+Adamawa,Girei,"Jibiro, Timpi, Arda Mokawo, Vindi Dubbe, Ardo Babayo, Ngolkoyere. Jauro Ndundu",19/08/2022,2731,0,2022-08-19,2022.0,8.0,Rainy,0.0
+Adamawa,Song,"Loko, Gudure, Kolere, Dumne and Gadamayo",17/07/2022,8111,0,2022-07-17,2022.0,7.0,Rainy,0.0
+Adamawa,Madagali,"Mayo Wandu, Kapa. Kirchinga, Shuwa, Duhu, Saban Gari, Hyumbula, Ghumbul, Katin Hausa and Wuro Ngayandi",25/08/2022,8413,0,2022-08-25,2022.0,8.0,Rainy,0.0
+Adamawa,Yola North,"Rumde Baru, Faro Road. Jambutu, Dami/u A, Damilu New. Limawa, Gwadabawa, Boramji, Kofare, Bacchure",19/08/2022,9971,0,2022-08-19,2022.0,8.0,Rainy,0.0
+Adamawa,Shelleng,"Shelfeng community. kiri. wuro yanka, Karim and Lababiri",15/08/2022,9549,0,2022-08-15,2022.0,8.0,Rainy,0.0
+Adamawa,Yola South,"Yola South metropolis, Wura Jabbe, unguwantabo, mbamba, damare, Njobili,
+Njoboliyo, Rugange, Sebore, Anguwan Sanda, Woru Chekke, Dandu, Wauru Jabbe, Saminaka and Yolde pate '•",17/08/2022,8816,0,2022-08-17,2022.0,8.0,Rainy,0.0
+Adamawa,Fufore,Unspecified,17/07/2022,9958,0,2022-07-17,2022.0,7.0,Rainy,0.0
+Adamawa,Numan,Unspecified,17/07/2022,4686,0,2022-07-17,2022.0,7.0,Rainy,0.0
+Adamawa,Song,Unspecified,17/07/2022,1506,0,2022-07-17,2022.0,7.0,Rainy,0.0
+Adamawa,Yola North,Unspecified,2022-05-05 00:00:00,1854,0,2022-05-05,2022.0,5.0,Rainy,0.0
+Adamawa,Yola South,Unspecified,2022-05-05 00:00:00,3072,0,2022-05-05,2022.0,5.0,Rainy,0.0
+Anambra,Anambra East,Aguleri,22/09/2022,20998,19727,2022-09-22,2022.0,9.0,Rainy,0.9394704257548337
+Anambra,Anambra East,Enugu-0tu,22/09/2022,31002,29835,2022-09-22,2022.0,9.0,Rainy,0.9623572672730791
+Anambra,Anambra East,Eziagulu-otu,22/09/2022,21041,19975,2022-09-22,2022.0,9.0,Rainy,0.9493370086973053
+Anambra,Anambra East,Mkpunando-otu,22/09/2022,9959,8407,2022-09-22,2022.0,9.0,Rainy,0.8441610603474244
+Anambra,Anambra East,lgbariam,22/09/2022,5806,5120,2022-09-22,2022.0,9.0,Rainy,0.8818463658284533
+Anambra,Anambra East,Umueri,22/09/2022,1194,974,2022-09-22,2022.0,9.0,Rainy,0.8157453936348409
+Anambra,Anambra East,Nsugbe,22/09/2022,2202,1788,2022-09-22,2022.0,9.0,Rainy,0.8119891008174387
+Anambra,Anambra East,lkemivite Nanda,22/09/2022,5798,5184,2022-09-22,2022.0,9.0,Rainy,0.8941014142807865
+Anambra,Anambra East,Umuoba,22/09/2022,5304,4812,2022-09-22,2022.0,9.0,Rainy,0.9072398190045249
+Anambra,Anambra West,Umueze,22/09/2022,22031,19457,2022-09-22,2022.0,9.0,Rainy,0.8831646316553947
+Anambra,Anambra West,Umuenwelum,22/09/2022,23969,21840,2022-09-22,2022.0,9.0,Rainy,0.9111769368767992
+Anambra,Anambra West,Oroma-Etiti,22/09/2022,20066,18338,2022-09-22,2022.0,9.0,Rainy,0.9138841821987441
+Anambra,Anambra West,Ezi-Anam,22/09/2022,22934,19015,2022-09-22,2022.0,9.0,Rainy,0.8291183395831516
+Anambra,Anambra West,Unspecified,22/09/2022,25046,20242,2022-09-22,2022.0,9.0,Rainy,0.8081929250179669
+Anambra,Anambra West,Owelle,22/09/2022,19954,15913,2022-09-22,2022.0,9.0,Rainy,0.7974842136914905
+Anambra,Anambra West,Ukwalla,22/09/2022,9118,7010,2022-09-22,2022.0,9.0,Rainy,0.7688089493309936
+Anambra,Anambra West,fnoma,22/09/2022,19908,15370,2022-09-22,2022.0,9.0,Rainy,0.7720514366083986
+Anambra,Anambra West,Ofumbanasa,22/09/2022,44011,25801,2022-09-22,2022.0,9.0,Rainy,0.5862398036854423
+Anambra,Anambra West,Nzam,22/09/2022,30994,21972,2022-09-22,2022.0,9.0,Rainy,0.7089114022068788
+Anambra,Ayamelum,Omor,22/09/2022,1047,832,2022-09-22,2022.0,9.0,Rainy,0.7946513849092646
+Anambra,Ayamelum,Anaku,22/09/2022,1106,945,2022-09-22,2022.0,9.0,Rainy,0.8544303797468354
+Anambra,Ayamelum,fgbakwu,22/09/2022,1380,1024,2022-09-22,2022.0,9.0,Rainy,0.7420289855072464
+Anambra,Ayamelum,Umuerum,22/09/2022,1661,1388,2022-09-22,2022.0,9.0,Rainy,0.8356411800120409
+Anambra,Ayamelum,Umueje,22/09/2022,1562,1201,2022-09-22,2022.0,9.0,Rainy,0.7688860435339309
+Anambra,Ayamelum,lfite-Ogwari,22/09/2022,1034,939,2022-09-22,2022.0,9.0,Rainy,0.9081237911025145
+Anambra,Ayamelum,Umumbo,22/09/2022,1277,1014,2022-09-22,2022.0,9.0,Rainy,0.7940485512920908
+Anambra,Ayamelum,Omasi,22/09/2022,1278,967,2022-09-22,2022.0,9.0,Rainy,0.7566510172143975
+Anambra,Ogbaru,Okpoko,22/09/2022,61033,45135,2022-09-22,2022.0,9.0,Rainy,0.739517965690692
+Anambra,Ogbaru,Odekpe,22/09/2022,39967,31682,2022-09-22,2022.0,9.0,Rainy,0.7927039807841469
+Anambra,Ogbaru,Ohita,22/09/2022,8072,6658,2022-09-22,2022.0,9.0,Rainy,0.824826560951437
+Anambra,Ogbaru,Atani,22/09/2022,25928,18040,2022-09-22,2022.0,9.0,Rainy,0.6957729095958037
+Anambra,Ogbaru,Obeagwe,22/09/2022,8860,6287,2022-09-22,2022.0,9.0,Rainy,0.7095936794582393
+Anambra,Ogbaru,Ochuche,22/09/2022,10452,8193,2022-09-22,2022.0,9.0,Rainy,0.7838691159586682
+Anambra,Ogbaru,Akiliozizor,22/09/2022,9706,7037,2022-09-22,2022.0,9.0,Rainy,0.725015454358129
+Anambra,Ogbaru,Amiyi -,22/09/2022,8066,7155,2022-09-22,2022.0,9.0,Rainy,0.8870567815521944
+Anambra,Ogbaru,Umuzu,22/09/2022,9134,7502,2022-09-22,2022.0,9.0,Rainy,0.8213269104444931
+Anambra,Ogbaru,Aki/i-Ogidi,22/09/2022,16019,10203,2022-09-22,2022.0,9.0,Rainy,0.6369311442661839
+Anambra,Ogbaru,Ogwu-aniocha,22/09/2022,18093,10586,2022-09-22,2022.0,9.0,Rainy,0.5850881556403029
+Anambra,Ogbaru,Umunankwo,22/09/2022,11907,8447,2022-09-22,2022.0,9.0,Rainy,0.7094146300495506
+Anambra,Ogbaru,Ogwu-ikpele,22/09/2022,10311,5020,2022-09-22,2022.0,9.0,Rainy,0.48685869459800213
+Anambra,Ogbaru,Ossornala,22/09/2022,24303,15110,2022-09-22,2022.0,9.0,Rainy,0.6217339423116488
+Anambra,Ogbaru,Mputu,22/09/2022,15067,9233,2022-09-22,2022.0,9.0,Rainy,0.6127961770757284
+Anambra,Ogbaru,Ogbakuba,22/09/2022,9064,4401,2022-09-22,2022.0,9.0,Rainy,0.48554721977052073
+Anambra,Awka North,Awba-Ofemili,22/09/2022,3048,2351,2022-09-22,2022.0,9.0,Rainy,0.7713254593175853
+Anambra,Awka North,Ugbene,22/09/2022,1021,833,2022-09-22,2022.0,9.0,Rainy,0.8158667972575906
+Anambra,Awka North,Ugbenu,22/09/2022,2065,1482,2022-09-22,2022.0,9.0,Rainy,0.7176755447941888
+Anambra,Awka North,Achala,22/09/2022,1118,865,2022-09-22,2022.0,9.0,Rainy,0.7737030411449016
+Anambra,Awka North,Ebenebe,22/09/2022,2127,1702,2022-09-22,2022.0,9.0,Rainy,0.8001880582980724
+Anambra,Ihiala,lhiala,22/09/2022,5012,4103,2022-09-22,2022.0,9.0,Rainy,0.818635275339186
+Anambra,Njikoka,Abagana,30/01/2022,1130,1130,2022-01-30,2022.0,1.0,Dry,1.0
+Anambra,Anambra East,Agu/eri,30/01/2022,2850,2850,2022-01-30,2022.0,1.0,Dry,1.0
+Anambra,Anaocha,Agulu,2022-01-08 00:00:00,2010,2010,2022-01-08,2022.0,1.0,Dry,1.0
+Anambra,Idemili South,Alor,31/07/2022,1340,1340,2022-07-31,2022.0,7.0,Rainy,1.0
+Anambra,Ogbaru,Atani,30/07/2022,3450,3450,2022-07-30,2022.0,7.0,Rainy,1.0
+Anambra,Awka North,Awba Ofemili,2022-01-08 00:00:00,2155,2155,2022-01-08,2022.0,1.0,Dry,1.0
+Anambra,Orumba North,Enugwuabo Ufuma,30/07/2022,2524,2524,2022-07-30,2022.0,7.0,Rainy,1.0
+Anambra,Ayamelum,Jfite Ogwari,2022-01-08 00:00:00,2167,2167,2022-01-08,2022.0,1.0,Dry,1.0
+Anambra,Ihiala,lsseke,31/07/2022,1549,1549,2022-07-31,2022.0,7.0,Rainy,1.0
+Anambra,Awka South,Nibo,30/07/2022,2250,2250,2022-07-30,2022.0,7.0,Rainy,1.0
+Anambra,Idemili North,Obosi,2022-01-08 00:00:00,1155,1155,2022-01-08,2022.0,1.0,Dry,1.0
+Anambra,Anambra West,UmuezeAnam,31/07/2022,2320,2320,2022-07-31,2022.0,7.0,Rainy,1.0
+Bauchi,Alkaleri,Alkaleri ( 14 Communities),22/07/2022,1205,0,2022-07-22,2022.0,7.0,Rainy,0.0
+Bauchi,Katagum,Azare & 16 others communities,20/07/2022,2400,0,2022-07-20,2022.0,7.0,Rainy,0.0
+Bauchi,Darazo,Darazo & 19 others communities,14/07/2022,3624,0,2022-07-14,2022.0,7.0,Rainy,0.0
+Bauchi,Giade,Giade & I J others communities,18/07/2022,732,0,2022-07-18,2022.0,7.0,Rainy,0.0
+Bauchi,Misau,Hardawa & JO othersw communities,20/07/2022,2160,0,2022-07-20,2022.0,7.0,Rainy,0.0
+Bauchi,Bauchi,lnkil & 3 others Communities,2022-07-05 00:00:00,1236,0,2022-07-05,2022.0,7.0,Rainy,0.0
+Bauchi,Jama'are,Jama·are & 15 others communities,18/07/2022,1800,250,2022-07-18,2022.0,7.0,Rainy,0.1388888888888889
+Bauchi,Kirfi,Kirfi & 11 others communities,23/07/2022,335,0,2022-07-23,2022.0,7.0,Rainy,0.0
+Bauchi,Warji,Lirnaa & 8 others communities ..,2022-07-06 00:00:00,1116,126,2022-07-06,2022.0,7.0,Rainy,0.11290322580645161
+Bauchi,Ningi,Ningi & I I other Communities,17/07/2022,930,0,2022-07-17,2022.0,7.0,Rainy,0.0
+Bauchi,Shira,Shira & J Sothers communities,18/07/2022,1290,95,2022-07-18,2022.0,7.0,Rainy,0.07364341085271318
+Bauchi,Zaki,Sakwa & 95 others communities,2022-09-09 00:00:00,3777,1123,2022-09-09,2022.0,9.0,Rainy,0.29732592004236164
+Bauchi,Gamawa,Kore nd 40 other communities,2022-09-09 00:00:00,4517,1144,2022-09-09,2022.0,9.0,Rainy,0.2532654416648218
+Benue,Gwer West,Gaambe-U-shian,2022-03-07 00:00:00,271,261,2022-03-07,2022.0,3.0,Rainy,0.9630996309963099
+Benue,Gwer West,Gaambe-U-shian,2022-03-07 00:00:00,199,198,2022-03-07,2022.0,3.0,Rainy,0.9949748743718593
+Benue,Kwande,Kumakagh,31/07/2022,405,393,2022-07-31,2022.0,7.0,Rainy,0.9703703703703703
+Benue,Kwande,Mbadura,31/07/2022,494,473,2022-07-31,2022.0,7.0,Rainy,0.9574898785425101
+Benue,Kwande,Mkomon/Mbakyor,31/07/2022,456,355,2022-07-31,2022.0,7.0,Rainy,0.7785087719298246
+Benue,Kwande,Yaav,31/07/2022,249,248,2022-07-31,2022.0,7.0,Rainy,0.9959839357429718
+Benue,Gwer West,Sagheu/Ukusu,2022-01-08 00:00:00,351,299,2022-01-08,2022.0,1.0,Dry,0.8518518518518519
+Benue,Kwande,Moon,31/08/2022,491,385,2022-08-31,2022.0,8.0,Rainy,0.7841140529531568
+Benue,Logo,Mba.ler,2022-01-10 00:00:00,263,263,2022-01-10,2022.0,1.0,Dry,1.0
+Benue,Logo,Nenzev,2022-01-10 00:00:00,520,518,2022-01-10,2022.0,1.0,Dry,0.9961538461538462
+Benue,Guma,lvite,2022-09-02 00:00:00,264,17,2022-09-02,2022.0,9.0,Rainy,0.06439393939393939
+Benue,Guma,Mbabai,2022-09-02 00:00:00,255,12,2022-09-02,2022.0,9.0,Rainy,0.047058823529411764
+Benue,Guma,Nzorov,2022-09-02 00:00:00,219,32,2022-09-02,2022.0,9.0,Rainy,0.1461187214611872
+Benue,Guma,Kaambe,2022-09-02 00:00:00,301,24,2022-09-02,2022.0,9.0,Rainy,0.07973421926910298
+Benue,Guma,Uvir,2022-09-02 00:00:00,295,18,2022-09-02,2022.0,9.0,Rainy,0.061016949152542375
+Benue,Guma,SaghevjTse Shan,2022-09-02 00:00:00,211,27,2022-09-02,2022.0,9.0,Rainy,0.12796208530805686
+Benue,Guma,Torkpande,2022-09-02 00:00:00,271,0,2022-09-02,2022.0,9.0,Rainy,0.0
+Benue,Guma,Tyondun,2022-09-02 00:00:00,234,12,2022-09-02,2022.0,9.0,Rainy,0.05128205128205128
+Benue,Guma,Branch,2022-09-02 00:00:00,259,24,2022-09-02,2022.0,9.0,Rainy,0.09266409266409266
+Benue,Guma,Umenger,2022-09-02 00:00:00,339,21,2022-09-02,2022.0,9.0,Rainy,0.061946902654867256
+Benue,Vandeikya,Ukyaagu,19/07/2022,798,125,2022-07-19,2022.0,7.0,Rainy,0.15664160401002505
+Benue,Oturkpo,Ugboju ehaje,24/08/2022,1724,109,2022-08-24,2022.0,8.0,Rainy,0.06322505800464037
+Benue,Oturkpo,Otobi,24/08/2022,1901,125,2022-08-24,2022.0,8.0,Rainy,0.06575486586007365
+Benue,Oturkpo,Ewulo,24/08/2022,1561,116,2022-08-24,2022.0,8.0,Rainy,0.07431133888532991
+Benue,Katsina-Ala,Mbajir,13/08/2022,2389,110,2022-08-13,2022.0,8.0,Rainy,0.046044370029300966
+Benue,Katsina-Ala,Michihe,13/08/2022,2457,151,2022-08-13,2022.0,8.0,Rainy,0.06145706145706146
+Benue,Katsina-Ala,Mbayongo,13/08/2022,2711,133,2022-08-13,2022.0,8.0,Rainy,0.049059387679822944
+Benue,Katsina-Ala,Hausa Quarters,19/09/2022,411,223,2022-09-19,2022.0,9.0,Rainy,0.5425790754257908
+Benue,Katsina-Ala,Yooyo,19/09/2022,369,191,2022-09-19,2022.0,9.0,Rainy,0.5176151761517616
+Benue,Katsina-Ala,Otsazi,19/09/2022,473,245,2022-09-19,2022.0,9.0,Rainy,0.5179704016913319
+Benue,Katsina-Ala,Utange,13/08/2022,2539,142,2022-08-13,2022.0,8.0,Rainy,0.055927530523828275
+Benue,Makurdi,Gyado Villa,2022-09-02 00:00:00,609,37,2022-09-02,2022.0,9.0,Rainy,0.060755336617405585
+Benue,Makurdi,Rice Mill,2022-09-02 00:00:00,634,31,2022-09-02,2022.0,9.0,Rainy,0.04889589905362776
+Benue,Makurdi,BIPC Quarters,2022-09-02 00:00:00,592,39,2022-09-02,2022.0,9.0,Rainy,0.06587837837837837
+Benue,Makurdi,Kanshio,2022-09-02 00:00:00,664,42,2022-09-02,2022.0,9.0,Rainy,0.06325301204819277
+Benue,Makurdi,Welfare Quarters,2022-09-02 00:00:00,627,36,2022-09-02,2022.0,9.0,Rainy,0.05741626794258373
+Benue,Makurdi,Fiidi,2022-09-02 00:00:00,651,37,2022-09-02,2022.0,9.0,Rainy,0.05683563748079877
+Benue,Makurdi,Agau,2022-09-02 00:00:00,701,36,2022-09-02,2022.0,9.0,Rainy,0.05135520684736091
+Benue,Makurdi,Mgbagun,2022-09-02 00:00:00,432,31,2022-09-02,2022.0,9.0,Rainy,0.07175925925925926
+Benue,Makurdi,Aji,2022-09-02 00:00:00,611,35,2022-09-02,2022.0,9.0,Rainy,0.057283142389525366
+Benue,Makurdi,Kucha Utebe,2022-09-02 00:00:00,628,42,2022-09-02,2022.0,9.0,Rainy,0.06687898089171974
+Benue,Makurdi,Tse Tyodugh and TseMandeAkpu,2022-09-02 00:00:00,665,29,2022-09-02,2022.0,9.0,Rainy,0.04360902255639098
+Benue,Makurdi,Karmem,2022-09-02 00:00:00,617,31,2022-09-02,2022.0,9.0,Rainy,0.050243111831442464
+Benue,Makurdi,Mobile Barracks,2022-09-02 00:00:00,623,36,2022-09-02,2022.0,9.0,Rainy,0.05778491171749599
+Benue,Apa,lga Okpaya,2022-09-08 00:00:00,611,79,2022-09-08,2022.0,9.0,Rainy,0.12929623567921442
+Benue,Agatu,Unspecified,2022-09-05 00:00:00,395,79,2022-09-05,2022.0,9.0,Rainy,0.2
+Benue,Agatu,Oweto,2022-09-05 00:00:00,476,92,2022-09-05,2022.0,9.0,Rainy,0.19327731092436976
+Benue,Agatu,Aila,2022-09-05 00:00:00,457,76,2022-09-05,2022.0,9.0,Rainy,0.16630196936542668
+Benue,Agatu,Ohelefu,2022-09-05 00:00:00,481,99,2022-09-05,2022.0,9.0,Rainy,0.20582120582120583
+Benue,Agatu,Ochunonya,2022-09-05 00:00:00,459,105,2022-09-05,2022.0,9.0,Rainy,0.22875816993464052
+Benue,Agatu,Utugolugwu,2022-09-05 00:00:00,488,121,2022-09-05,2022.0,9.0,Rainy,0.24795081967213115
+Benue,Agatu,Olegogambo,2022-09-05 00:00:00,463,74,2022-09-05,2022.0,9.0,Rainy,0.15982721382289417
+Benue,Agatu,Olegodege,2022-09-05 00:00:00,451,64,2022-09-05,2022.0,9.0,Rainy,0.1419068736141907
+Benue,Agatu,Obishu,2022-09-05 00:00:00,499,87,2022-09-05,2022.0,9.0,Rainy,0.1743486973947896
+Benue,Agatu,Ebete,2022-09-05 00:00:00,407,95,2022-09-05,2022.0,9.0,Rainy,0.2334152334152334
+Benue,Agatu,Adeka,2022-09-05 00:00:00,411,84,2022-09-05,2022.0,9.0,Rainy,0.20437956204379562
+Benue,Agatu,Olegadakolo,2022-09-05 00:00:00,487,92,2022-09-05,2022.0,9.0,Rainy,0.188911704312115
+Benue,Agatu,Oleje,2022-09-05 00:00:00,451,86,2022-09-05,2022.0,9.0,Rainy,0.19068736141906872
+Benue,Gboko,Abaagu,26/08/2022,177,15,2022-08-26,2022.0,8.0,Rainy,0.0847457627118644
+Benue,Gboko,Gboko East,26/08/2022,165,7,2022-08-26,2022.0,8.0,Rainy,0.04242424242424243
+Benue,Gboko,Mbaion,26/08/2022,189,14,2022-08-26,2022.0,8.0,Rainy,0.07407407407407407
+Benue,Gboko,Yandev,26/08/2022,174,16,2022-08-26,2022.0,8.0,Rainy,0.09195402298850575
+Benue,Gwer West,Ukusu,28/08/2022,105,23,2022-08-28,2022.0,8.0,Rainy,0.21904761904761905
+Benue,Gwer West,Aondona,28/08/2022,81,17,2022-08-28,2022.0,8.0,Rainy,0.20987654320987653
+Benue,Gwer West,Mbapa,28/08/2022,88,22,2022-08-28,2022.0,8.0,Rainy,0.25
+Benue,Gwer West,Gaambe,28/08/2022,91,19,2022-08-28,2022.0,8.0,Rainy,0.2087912087912088
+Benue,Buruku,Mbatsuwa,19/09/2022,511,310,2022-09-19,2022.0,9.0,Rainy,0.6066536203522505
+Benue,Buruku,Ushen,19/09/2022,497,351,2022-09-19,2022.0,9.0,Rainy,0.7062374245472837
+Benue,Buruku,Wuav/Mbashian,19/09/2022,522,298,2022-09-19,2022.0,9.0,Rainy,0.5708812260536399
+Benue,Buruku,Agyo,19/09/2022,413,235,2022-09-19,2022.0,9.0,Rainy,0.5690072639225182
+Benue,Buruku,Ugbenyi,19/09/2022,501,363,2022-09-19,2022.0,9.0,Rainy,0.7245508982035929
+Benue,Buruku,Oguluba,19/09/2022,309,221,2022-09-19,2022.0,9.0,Rainy,0.7152103559870551
+Benue,Buruku,Buruku Township,19/09/2022,492,219,2022-09-19,2022.0,9.0,Rainy,0.4451219512195122
+Benue,Buruku,Agbor,19/09/2022,626,449,2022-09-19,2022.0,9.0,Rainy,0.7172523961661342
+Benue,Buruku,Otsafu,19/09/2022,552,320,2022-09-19,2022.0,9.0,Rainy,0.5797101449275363
+Benue,Buruku,Angwan Ugye,19/09/2022,564,345,2022-09-19,2022.0,9.0,Rainy,0.6117021276595744
+Benue,Okpokwu,Opialu Edumoga,22/08/2022,1521,459,2022-08-22,2022.0,8.0,Rainy,0.30177514792899407
+Benue,Okpokwu,Olanyega Otobi,2022-12-09 00:00:00,1321,552,2022-12-09,2022.0,12.0,Dry,0.41786525359576077
+Benue,Okpokwu,Akouneje,24/09/2022,1213,751,2022-09-24,2022.0,9.0,Rainy,0.6191261335531739
+Benue,Okpokwu,Aicheajogwu Akalama,19/09/2022,1423,576,2022-09-19,2022.0,9.0,Rainy,0.40477863668306396
+Benue,Okpokwu,Ogege,19/09/2022,1328,479,2022-09-19,2022.0,9.0,Rainy,0.36069277108433734
+Benue,Ado,lgumale,20/09/2022,543,304,2022-09-20,2022.0,9.0,Rainy,0.5598526703499079
+Benue,Ado,Apa,20/09/2022,613,344,2022-09-20,2022.0,9.0,Rainy,0.5611745513866232
+Benue,Ado,Utonkon,20/09/2022,624,321,2022-09-20,2022.0,9.0,Rainy,0.5144230769230769
+Benue,Ado,Agila,20/09/2022,575,232,2022-09-20,2022.0,9.0,Rainy,0.40347826086956523
+Benue,Ado,Ekile,20/09/2022,638,311,2022-09-20,2022.0,9.0,Rainy,0.48746081504702193
+Benue,Agatu,Utugolugwu,20/09/2022,512,399,2022-09-20,2022.0,9.0,Rainy,0.779296875
+Benue,Agatu,Ohelefu,20/09/2022,550,356,2022-09-20,2022.0,9.0,Rainy,0.6472727272727272
+Benue,Agatu,lgagishu,19/09/2022,498,300,2022-09-19,2022.0,9.0,Rainy,0.6024096385542169
+Benue,Agatu,Ebete,19/09/2022,569,387,2022-09-19,2022.0,9.0,Rainy,0.680140597539543
+Benue,Agatu,Alokpa,21/09/2022,590,390,2022-09-21,2022.0,9.0,Rainy,0.6610169491525424
+Benue,Agatu,Okokolo,22/09/2022,568,310,2022-09-22,2022.0,9.0,Rainy,0.545774647887324
+Benue,Agatu,oweto,19/09/2022,2628,2044,2022-09-19,2022.0,9.0,Rainy,0.7777777777777778
+Benue,Agatu,Akwu,20/09/2022,580,302,2022-09-20,2022.0,9.0,Rainy,0.5206896551724138
+Benue,Agatu,Aila,22/09/2022,726,425,2022-09-22,2022.0,9.0,Rainy,0.5853994490358126
+Benue,Agatu,Omikwidi,20/09/2022,597,394,2022-09-20,2022.0,9.0,Rainy,0.6599664991624791
+Benue,Agatu,Edeje,21/09/2022,649,419,2022-09-21,2022.0,9.0,Rainy,0.6456086286594761
+Benue,Agatu,Egba,21/09/2022,573,373,2022-09-21,2022.0,9.0,Rainy,0.6509598603839442
+Benue,Agatu,Olegocholo gbo,21/09/2022,378,223,2022-09-21,2022.0,9.0,Rainy,0.58994708994709
+Benue,Agatu,Usha,20/09/2022,722,499,2022-09-20,2022.0,9.0,Rainy,0.6911357340720221
+Benue,Agatu,Olagadokele,20/09/2022,591,329,2022-09-20,2022.0,9.0,Rainy,0.55668358714044
+Benue,Agatu,Olegoga,21/09/2022,592,302,2022-09-21,2022.0,9.0,Rainy,0.5101351351351351
+Benue,Agatu,Obishu,20/09/2022,620,411,2022-09-20,2022.0,9.0,Rainy,0.6629032258064517
+Benue,Agatu,Olegodege,21/09/2022,602,441,2022-09-21,2022.0,9.0,Rainy,0.7325581395348837
+Benue,Agatu,Abugbe,20/09/2022,534,288,2022-09-20,2022.0,9.0,Rainy,0.5393258426966292
+Benue,Agatu,Ocholonya,20/09/2022,709,476,2022-09-20,2022.0,9.0,Rainy,0.6713681241184767
+Benue,Agatu,Adana,22/09/2022,599,302,2022-09-22,2022.0,9.0,Rainy,0.5041736227045075
+Benue,Agatu,Jminiyi,21/09/2022,654,417,2022-09-21,2022.0,9.0,Rainy,0.6376146788990825
+Benue,Agatu,Olegeje,22/09/2022,578,349,2022-09-22,2022.0,9.0,Rainy,0.6038062283737025
+Benue,Agatu,Olegada-ogboche,21/09/2022,666,450,2022-09-21,2022.0,9.0,Rainy,0.6756756756756757
+Benue,Agatu,Olegede,20/09/2022,587,333,2022-09-20,2022.0,9.0,Rainy,0.5672913117546848
+Benue,Agatu,Olegotekwu,20/09/2022,623,422,2022-09-20,2022.0,9.0,Rainy,0.6773675762439807
+Borno,Jere,"Jere town, Goni Kachallari",21/08/2022,3001,3001,2022-08-21,2022.0,8.0,Rainy,1.0
+Borno,Kwaya Kusar,Kwaya kusur town,2022-07-08 00:00:00,164,164,2022-07-08,2022.0,7.0,Rainy,1.0
+Borno,Hawul,"Lokoja, Ghun, Kukurku",26/08/2022,987,987,2022-08-26,2022.0,8.0,Rainy,1.0
+Borno,Maiduguri,Maduganari Bayan Tudu,30/08/2022,52,52,2022-08-30,2022.0,8.0,Rainy,1.0
+Borno,Maiduguri,Maduganari Layin Apga,30/08/2022,667,667,2022-08-30,2022.0,8.0,Rainy,1.0
+Borno,Maiduguri,Maduganari L.ayin Bulama,30/08/2022,61,61,2022-08-30,2022.0,8.0,Rainy,1.0
+Borno,Jere,Mashamari Moro-Moro,30/08/2022,0,0,2022-08-30,2022.0,8.0,Rainy,0.0
+Borno,Chibok,Mbalala,29/08/2022,10000,300,2022-08-29,2022.0,8.0,Rainy,0.03
+Borno,Ngala,"Ngala, Gamboru",26/07/2022,1200,1320,2022-07-26,2022.0,7.0,Rainy,1.1
+Borno,Kaga,Ngamdu,20/08/2022,321,321,2022-08-20,2022.0,8.0,Rainy,1.0
+Borno,Maiduguri,"Polo, Bolori, Ngrannam. Ngomari, Bulunkutu Dala",21/08/2022,5851,5851,2022-08-21,2022.0,8.0,Rainy,1.0
+Borno,Kala/Balge,Rann town,18/09/2022,3175,1488,2022-09-18,2022.0,9.0,Rainy,0.4686614173228347
+Borno,Hawul,"Shaffa, Kwajafa, Tashan Alade, Huitambaya",22/08/2022,251,251,2022-08-22,2022.0,8.0,Rainy,1.0
+Borno,Shani,shanitown,18/08/2022,387,387,2022-08-18,2022.0,8.0,Rainy,1.0
+Borno,Biu,Tashan Danfulani ',2022-05-08 00:00:00,312,312,2022-05-08,2022.0,5.0,Rainy,1.0
+Delta,Isoko North,Ovrode,15/07/2022,117,0,2022-07-15,2022.0,7.0,Rainy,0.0
+Delta,Ndokwa East,Beneku,23/07/2022,69,0,2022-07-23,2022.0,7.0,Rainy,0.0
+Delta,Oshimili South,Ogbe-llo Asaba,30/07/2022,128,0,2022-07-30,2022.0,7.0,Rainy,0.0
+Delta,Oshimili South,Oko-Amakom,26/07/2022,91,0,2022-07-26,2022.0,7.0,Rainy,0.0
+Delta,Oshimili South,Oko-Odifulu,23/07/2022,137,0,2022-07-23,2022.0,7.0,Rainy,0.0
+Delta,Oshimili South,Omeli-Gboma,24/07/2022,97,0,2022-07-24,2022.0,7.0,Rainy,0.0
+Delta,Oshimili South,Oshimili Town,23/07/2022,109,0,2022-07-23,2022.0,7.0,Rainy,0.0
+Delta,Oshimili South,Oko-Amakom,17/09/2022,2425,679,2022-09-17,2022.0,9.0,Rainy,0.28
+Delta,Oshimili South,Amakom,17/09/2022,981,967,2022-09-17,2022.0,9.0,Rainy,0.9857288481141692
+Delta,Oshimili South,Phase 11,17/09/2022,1713,612,2022-09-17,2022.0,9.0,Rainy,0.3572679509632224
+Delta,Oshimili South,Infantjesus,17/09/2022,1429,583,2022-09-17,2022.0,9.0,Rainy,0.4079776067179846
+Delta,Burutu,Land of Canaan,15/09/2022,815,618,2022-09-15,2022.0,9.0,Rainy,0.758282208588957
+Delta,Burutu,Tangbe,15/09/2022,1258,417,2022-09-15,2022.0,9.0,Rainy,0.3314785373608903
+Delta,Burutu,Bolu-Tangbe,15/09/2022,975,413,2022-09-15,2022.0,9.0,Rainy,0.4235897435897436
+Delta,Burutu,Bethel,15/09/2022,1479,523,2022-09-15,2022.0,9.0,Rainy,0.35361730899256255
+Ebonyi,Ebonyi,Nkeleke Achara,26/05/2022,1476,1420,2022-05-26,2022.0,5.0,Rainy,0.962059620596206
+Ebonyi,Ikwo,lkwo South D/C lkwo South East D/C lkwo Central,30/09/2022,49836,17400,2022-09-30,2022.0,9.0,Rainy,0.3491451962436793
+Ebonyi,Ohaozara,Amenu/Uburu,26/07/2022,1689,1689,2022-07-26,2022.0,7.0,Rainy,1.0
+Edo,Ovia North East,Avbotutu,2022-05-07 00:00:00,154,0,2022-05-07,2022.0,5.0,Rainy,0.0
+Edo,Oredo,Ogunmwnyin,27/04/2022,41,0,2022-04-27,2022.0,4.0,Rainy,0.0
+Edo,Ovia North East,Otofure,22/07/2022,257,0,2022-07-22,2022.0,7.0,Rainy,0.0
+Edo,Ikpoba-Okha,Urora,27/06/2022,47,0,2022-06-27,2022.0,6.0,Rainy,0.0
+Edo,Ikpoba-Okha,Uteh,27/07/2022,34,0,2022-07-27,2022.0,7.0,Rainy,0.0
+Edo,Oredo,UwaRoad,27/04/2022,421,0,2022-04-27,2022.0,4.0,Rainy,0.0
+Edo,Etsako East,Egwori Waterside,19/09/2022,1378,158,2022-09-19,2022.0,9.0,Rainy,0.11465892597968069
+Edo,Etsako East,Otoukwe,19/09/2022,758,219,2022-09-19,2022.0,9.0,Rainy,0.28891820580474936
+Edo,Etsako East,ighaewo,19/09/2022,1587,396,2022-09-19,2022.0,9.0,Rainy,0.2495274102079395
+Edo,Etsako East,UawCamp,19/09/2022,473,473,2022-09-19,2022.0,9.0,Rainy,1.0
+Edo,Etsako Central,Udaba,19/09/2022,1895,459,2022-09-19,2022.0,9.0,Rainy,0.24221635883905013
+Edo,Etsako Central,Osomegbe,19/09/2022,3714,1793,2022-09-19,2022.0,9.0,Rainy,0.48276790522347873
+Edo,Etsako Central,Anegbette,19/09/2022,2083,1061,2022-09-19,2022.0,9.0,Rainy,0.5093614978396543
+Edo,Etsako Central,lfeku Island,19/09/2022,1865,791,2022-09-19,2022.0,9.0,Rainy,0.42412868632707773
+Edo,Etsako Central,Agbabu,19/09/2022,877,359,2022-09-19,2022.0,9.0,Rainy,0.40935005701254273
+Edo,Etsako Central,Udochi,19/09/2022,694,317,2022-09-19,2022.0,9.0,Rainy,0.45677233429394815
+Edo,Etsako Central,Ufukpo,19/09/2022,521,235,2022-09-19,2022.0,9.0,Rainy,0.4510556621880998
+Edo,Etsako Central,Yuliwa,19/09/2022,247,143,2022-09-19,2022.0,9.0,Rainy,0.5789473684210527
+Edo,Etsako Central,Ekperi,19/09/2022,951,397,2022-09-19,2022.0,9.0,Rainy,0.4174553101997897
+Edo,Esan South East,IHyushi,19/09/2022,2973,1075,2022-09-19,2022.0,9.0,Rainy,0.3615876219307097
+Edo,Etsako Central,Anegbette,27/09/2022,3794,1763,2022-09-27,2022.0,9.0,Rainy,0.4646810753821824
+Ebonyi,Ikwo,"Item-Amagu Euchara, Enyimagu And Alike",,0,0,,,,Rainy,0.0
+Enugu,Uzo-Uwani,"Ogurugu, Ojjor, lgga,Ogbosu",30/09/2022,30200,30200,2022-09-30,2022.0,9.0,Rainy,1.0
+Enugu,Enugu South,"Ugwuaji,Umueze Street",2022-07-12 00:00:00,1041,1041,2022-07-12,2022.0,7.0,Rainy,1.0
+Enugu,Enugu South,Amaegbu Obeagu-Uno Umunya Obeagu,2022-08-04 00:00:00,3780,2046,2022-08-04,2022.0,8.0,Rainy,0.5412698412698412
+Federal Capital Territory,Abuja Municipal,Unspecified,2022-10-06 00:00:00,156,156,2022-10-06,2022.0,10.0,Rainy,1.0
+Gombe,Funakaye,Bajoga (32 Communitiesj,30/07/2022,7272,752,2022-07-30,2022.0,7.0,Rainy,0.1034103410341034
+Gombe,Akko,Bogo & 2 others communities,24/07/2022,2100,0,2022-07-24,2022.0,7.0,Rainy,0.0
+Gombe,Kwami,Bojude & 6 others communities,2022-08-02 00:00:00,2556,114,2022-08-02,2022.0,8.0,Rainy,0.04460093896713615
+Gombe,Dukku,Dukku & 1 I others communities,2022-09-03 00:00:00,6636,450,2022-09-03,2022.0,9.0,Rainy,0.06781193490054249
+Gombe,Akko,Lergo & 52 others communities,17/08/2022,1512,0,2022-08-17,2022.0,8.0,Rainy,0.0
+Gombe,Gombe,Nassarawo,2022-09-11 00:00:00,2217,0,2022-09-11,2022.0,9.0,Rainy,0.0
+Gombe,Yamaltu/Deba,Kuri & other communities,2022-08-09 00:00:00,5851,0,2022-08-09,2022.0,8.0,Rainy,0.0
+Gombe,Shomgom,Lapan and other communities,20/08/2022,2290,0,2022-08-20,2022.0,8.0,Rainy,0.0
+Gombe,Nafada,Nafada & I 9 other villages,2022-02-09 00:00:00,4068,1732,2022-02-09,2022.0,2.0,Dry,0.4257620452310718
+Imo,Isu,·-,,884,0,,,,Rainy,0.0
+Imo,Njaba,Unspecified,,1437,0,,,,Rainy,0.0
+Imo,Nkwerre,Unspecified,,775,0,,,,Rainy,0.0
+Jigawa,Auyo,"ayama, jura, auyo & 3 others",2022-01-08 00:00:00,635,0,2022-01-08,2022.0,1.0,Dry,0.0
+Jigawa,Birni Kudu,chiyako and 4 others,2022-02-08 00:00:00,1802,0,2022-02-08,2022.0,2.0,Dry,0.0
+Jigawa,Ringim,"Dabi, Gabarin, Wailari, Siyango, Kyarama, Majiyawa, Dingare, Lanyoya/, Dibbawa Fulani, Dusukum, Zangon Karara, Ringim ward, Yandutse, Yakasawar Kwari, Sintilmawa, Gujaba, Shafar, Malamawar Tsori, Daurawa, Sankara, Garin Gada,Daguzau, Garin Maker;, Gija, Gidan Sani, and others",2022-11-09 00:00:00,5600,5600,2022-11-09,2022.0,11.0,Dry,1.0
+Jigawa,Miga,"Gululu, Tsakuwawa, Romawa, Malikawa, Mabayi, Kainawa, Nasarawa, G/ Gami And Gyatimi",15/09/2022,1586,435,2022-09-15,2022.0,9.0,Rainy,0.2742749054224464
+Jigawa,Guri,guri,2022-02-08 00:00:00,3972,0,2022-02-08,2022.0,2.0,Dry,0.0
+Jigawa,Hadejia,Hadejia Central Market,2022-02-08 00:00:00,1432,0,2022-02-08,2022.0,2.0,Dry,0.0
+Jigawa,Dutse,Karnaya,27/08/2022,2199,0,2022-08-27,2022.0,8.0,Rainy,0.0
+Jigawa,Kiyawa,"kiyawa, balago. fake & 5 others",2022-04-08 00:00:00,1051,0,2022-04-08,2022.0,4.0,Rainy,0.0
+Jigawa,Dutse,"kudai, kaimawa, kwadiya & 5 othrs",2022-02-08 00:00:00,612,0,2022-02-08,2022.0,2.0,Dry,0.0
+Jigawa,Malam Madori,"Mallam Madori, Talaku,Garun Gabbas. Dakido,Mairakumi,Akurya,Garun
+Gabbas tsohuwa",29/07/2022,1566,0,2022-07-29,2022.0,7.0,Rainy,0.0
+Jigawa,Miga,"miga, koya & 17 others",2022-02-08 00:00:00,3377,0,2022-02-08,2022.0,2.0,Dry,0.0
+Jigawa,Jahun,"tarayya, gunka, idanduna, and I 7 others",2022-03-08 00:00:00,1251,0,2022-03-08,2022.0,3.0,Rainy,0.0
+Jigawa,Taura,"Taura Lga Secretariat, Staff Quarters, Gsss Taura. Malamawa,Kari Tsalle, Rigar Daji, Rigar Agumu, Tsamiyar Kabau, Daurawa, Kundu, Kangal Fulani, Tsadawa, Gidan Narwa, Zangom Maje, Tsuwa And Others",2022-12-09 00:00:00,14100,14100,2022-12-09,2022.0,12.0,Dry,1.0
+Jigawa,Kafin Hausa,Unspecified,31/07/2022,654,0,2022-07-31,2022.0,7.0,Rainy,0.0
+Jigawa,Kiri Kasamma,Unspecified,2022-01-08 00:00:00,1758,0,2022-01-08,2022.0,1.0,Dry,0.0
+Jigawa,Kiri Kasamma,"Kubayo, Maragwado And Rugar lsah.",22/09/2022,1738,1738,2022-09-22,2022.0,9.0,Rainy,1.0
+Jigawa,Auyo,"Jura, Ayan, Bengeli, Kure, Kaban, Agin, Sabuwar Auyo, Gatakashe, Gidan
+Shinkafar Aminu Dubai, Matakuwa, Marina And Auyakayi",24/09/2022,4322,3231,2022-09-24,2022.0,9.0,Rainy,0.7475705691809348
+Jigawa,Guri,"Takazza, Una, Musari, Zogobia, Kujuru, Lafiyari, Alanjo, Giryo, Kadira, Chapchapno, Tasgan Gabas, Tasgan Yamma, Garmakuwan Gabas Garmakuwan Yamma, Bakin Gayin, Kurya, Gajiya, Dorowaji, Garin Malam
+And Others",16/09/2022,3002,1335,2022-09-16,2022.0,9.0,Rainy,0.4447035309793471
+Kaduna,Chikun,1 Village,2022-08-11 00:00:00,15,0,2022-08-11,2022.0,8.0,Rainy,0.0
+Kaduna,Kubau,I Village,21/07/2022,100,0,2022-07-21,2022.0,7.0,Rainy,0.0
+Kaduna,Lere,I I Villages,14/08/2022,170,0,2022-08-14,2022.0,8.0,Rainy,0.0
+Kaduna,Kudan,7 Villeges,29/07/2022,96,0,2022-07-29,2022.0,7.0,Rainy,0.0
+Kano,Gwale,Gwale,2022-07-09 00:00:00,2100,0,2022-07-09,2022.0,7.0,Rainy,0.0
+Kano,Fagge,Kantin Kwari Markey,2022-07-07 00:00:00,547,0,2022-07-07,2022.0,7.0,Rainy,0.0
+Kano,Kibiya,Kibiya,29/08/2022,1056,0,2022-08-29,2022.0,8.0,Rainy,0.0
+Kano,Wudil,"Kofar Fada, Utai, Kausani, Lajawa, Acika, Darki, Dagumawa, lndabo, Dankaza, And Sabon Gari.",29/08/2022,1122,15,2022-08-29,2022.0,8.0,Rainy,0.013368983957219251
+Kano,Warawa,"Larabar Gadon Sarki,Gishiri Wuya,Karankawa",2022-05-09 00:00:00,2848,270,2022-05-09,2022.0,5.0,Rainy,0.09480337078651685
+Kano,Rimin Gado,"rimin gado town,jili, gulu, yalwan danziyal, tamawa, maigari, karofin yashi,
+zango and dakadawa",2022-08-18 00:00:00,2674,0,2022-08-18,2022.0,8.0,Rainy,0.0
+Kano,Shanono,"shanono town, farin ruwa, tsaure and kokiya town.",14/08/2022,935,0,2022-08-14,2022.0,8.0,Rainy,0.0
+Kano,Dambatta,Unspecified,17/07/2022,699,0,2022-07-17,2022.0,7.0,Rainy,0.0
+Kano,Doguwa,Unspecified,17/04/2022,664,0,2022-04-17,2022.0,4.0,Rainy,0.0
+Kano,Gwale,Unspecified,13/07/2022,813,0,2022-07-13,2022.0,7.0,Rainy,0.0
+Kano,Kibiya,Unspecified,17/04/2022,388,0,2022-04-17,2022.0,4.0,Rainy,0.0
+Kano,Kiru,Unspecified,13/07/2022,1620,0,2022-07-13,2022.0,7.0,Rainy,0.0
+Katsina,Kankia,1 Village,22/07/2022,86,0,2022-07-22,2022.0,7.0,Rainy,0.0
+Katsina,Safana,1 Village,23/07/2022,400,0,2022-07-23,2022.0,7.0,Rainy,0.0
+Katsina,Danja,10 Villages,2022-07-12 00:00:00,128,0,2022-07-12,2022.0,7.0,Rainy,0.0
+Katsina,Funtua,10 Villages,2022-07-05 00:00:00,258,0,2022-07-05,2022.0,7.0,Rainy,0.0
+Katsina,Kusada,10 Villages,22/07/2022,311,0,2022-07-22,2022.0,7.0,Rainy,0.0
+Katsina,Musawa,11 Villages,29/07/2022,482,108,2022-07-29,2022.0,7.0,Rainy,0.22406639004149378
+Katsina,Batsari,13 Villages,20/07/2022,443,0,2022-07-20,2022.0,7.0,Rainy,0.0
+Katsina,Zango,3 Villages .,19/07/2022,105,0,2022-07-19,2022.0,7.0,Rainy,0.0
+Katsina,Sabuwa,4 Villages,2022-07-03 00:00:00,111,0,2022-07-03,2022.0,7.0,Rainy,0.0
+Katsina,Batagarawa,8 Villages,24/07/2022,364,0,2022-07-24,2022.0,7.0,Rainy,0.0
+Katsina,Ingawa,8 Villages,24/07/2022,155,0,2022-07-24,2022.0,7.0,Rainy,0.0
+Katsina,Kankara,8 villages,18/07/2022,176,0,2022-07-18,2022.0,7.0,Rainy,0.0
+Katsina,Katsina,9 Villages,22/07/2022,607,0,2022-07-22,2022.0,7.0,Rainy,0.0
+Kebbi,Bunza,"Binji Town,Zagga,llo,Bagudo Town,Raha And Bunza Town",2022-07-09 00:00:00,3125,1239,2022-07-09,2022.0,7.0,Rainy,0.39648
+Kebbi,Jega,JegaTown,17/08/2022,478,102,2022-08-17,2022.0,8.0,Rainy,0.21338912133891214
+Kebbi,Shanga,Shanga Town & Sabara,2022-09-08 00:00:00,433,58,2022-09-08,2022.0,9.0,Rainy,0.13394919168591224
+Kebbi,Birnin Kebbi,Unspecified,16/06/2022,730,419,2022-06-16,2022.0,6.0,Rainy,0.5739726027397261
+Kebbi,Jega,Unspecified,16/06/2022,1460,839,2022-06-16,2022.0,6.0,Rainy,0.5746575342465754
+Kogi,Idah,Unspecified,2022-10-06 00:00:00,75,75,2022-10-06,2022.0,10.0,Rainy,1.0
+Kogi,Ijumu,Unspecified,2022-10-06 00:00:00,50,60,2022-10-06,2022.0,10.0,Rainy,1.2
+Kogi,Ogori/Magongo,Unspecified,2022-10-06 00:00:00,25,65,2022-10-06,2022.0,10.0,Rainy,2.6
+Kwara,Edu,"Kpataringi,Taada,Kusogi,Yimagi,Bacita,Belle,Tsaragi,Lafiagi,Tasan,Kpeliagi,Ye lwa,Driji",2022-11-09 00:00:00,5330,3570,2022-11-09,2022.0,11.0,Dry,0.6697936210131332
+Kwara,Pategi,"Sunkoso, Gbaradogi, Babogi, Gakpan, Esu-dari, Sanchita, Eba",1 1/09/2022,5064,3330,,,,Rainy,0.6575829383886256
+Kwara,Moro,"lpata, Fangan, Ndako, lpata-Oja, lpata-Niger, Unguwan Sariki Jirgi,
+Ndadoko, Samanagi",2022-11-09 00:00:00,4180,3280,2022-11-09,2022.0,11.0,Dry,0.784688995215311
+Kwara,Ilorin East,"/sale-Koko, Oke-suna, Sabo-oke, Kafuma, Akerebiata, /di-ape, Aduralere,
+Sanu-Shuhu, Okefele, Amilengbe, Mubo",15/09/2022,2280,2630,2022-09-15,2022.0,9.0,Rainy,1.1535087719298245
+Kwara,Kaiama,"Kaiama 1, Bichi, Adena, Gbejibo, Banisonla, Wurimakoto, Kemanji, Bani",15/09/2022,4240,3325,2022-09-15,2022.0,9.0,Rainy,0.7841981132075472
+Kwara,Offa,"Engi, Balogun, Shewo, Essa. Ojomu, lgboidun, Offa",15/09/2022,1770,1130,2022-09-15,2022.0,9.0,Rainy,0.6384180790960452
+Kwara,Ifelodun,"Oro-ago, Kajiola, Oke-Oyun",30/09/2022,3280,2954,2022-09-30,2022.0,9.0,Rainy,0.900609756097561
+Kwara,Oyun,"Ladun, Ojoku, Erinfe, 1/emoma, lpe, lgosun",30/09/2022,1520,1109,2022-09-30,2022.0,9.0,Rainy,0.7296052631578948
+Kwara,Baruten,"Gwanara, llesha, Okuta, Yashikira, Shia, Boriya ,,",30/09/2022,2615,1430,2022-09-30,2022.0,9.0,Rainy,0.5468451242829828
+Kwara,Ilorin West,"Kpakata, Gaa-Aremu, Alagbado, Amo Estate",30/09/2022,1530,1070,2022-09-30,2022.0,9.0,Rainy,0.6993464052287581
+Kwara,Ilorin South,"Taiwo-lsafe, Unity, Ofoje, Kufende, Agbagidun",30/09/2022,1280,1019,2022-09-30,2022.0,9.0,Rainy,0.79609375
+Kwara,Asa,"Bala, Ogele, Abort), Ote, Asa Dam Area, Afun, Eiyon-karin",30/09/2022,2155,1263,2022-09-30,2022.0,9.0,Rainy,0.5860788863109049
+Lagos,Alimosho,Aboru,2022-12-09 00:00:00,194,0,2022-12-09,2022.0,12.0,Dry,0.0
+Lagos,Ikorodu,Adamo,2022-09-07 00:00:00,136,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Ifako-Ijaye,"Ado-Odo, Ajegunle Ila boundary, Fred Williams Estate",24/06/2022,6500,1986,2022-06-24,2022.0,6.0,Rainy,0.30553846153846154
+Lagos,Ikorodu,Agbowa lkosi,2022-09-07 00:00:00,209,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Kosofe,Agifiti,2022-09-07 00:00:00,18,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Kosofe,"Agifiti 2, Agboyi-Ketu &, Magodo road",2022-09-07 00:00:00,3500,1002,2022-09-07,2022.0,9.0,Rainy,0.2862857142857143
+Lagos,Kosofe,"Agifiti 2, Magodo road & Agbonyi-ketu",2022-10-07 00:00:00,1760,0,2022-10-07,2022.0,10.0,Rainy,0.0
+Lagos,Ojo,Aiyedoto,2022-09-07 00:00:00,12,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Alimosho,Ajasa Command,2022-09-07 00:00:00,22,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Ikorodu,"Ajebo, lgbomogun, Gbopa, Gberigbe fgbogbo road, !jede, Adamo, Mowokekere, Erikorodu and Agbawa lkosi",2022-08-07 00:00:00,2500,843,2022-08-07,2022.0,8.0,Rainy,0.3372
+Lagos,Ifako-Ijaye,"Ajegunfe ilo,Uu, Afried Estate",2022-09-07 00:00:00,85,34,2022-09-07,2022.0,9.0,Rainy,0.4
+Lagos,Ojo,Army Cantonement,2022-09-07 00:00:00,13,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Alimosho,Ayobo,2022-08-07 00:00:00,165,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Epe,EbuteAfuye,2022-08-07 00:00:00,106,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Alimosho,Eganlgando,2022-09-07 00:00:00,32,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Oshodi-Isolo,Egbe,2022-08-07 00:00:00,69,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Oshodi-Isolo,Egbe,2022-10-07 00:00:00,10,3,2022-10-07,2022.0,10.0,Rainy,0.3
+Lagos,Epe,Erepoto,2022-08-07 00:00:00,98,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Epe,Erepoto,22/09/2022,260,0,2022-09-22,2022.0,9.0,Rainy,0.0
+Lagos,Ikorodu,Erikorodo,2022-08-07 00:00:00,24,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Amuwo-Odofin,Festac,2022-09-07 00:00:00,34,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Ojo,Forbe,2022-09-07 00:00:00,16,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Badagry,Ganyigbo,2022-08-07 00:00:00,136,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Badagry,Ganyigbo & Uanikin,2022-09-07 00:00:00,15,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Badagry,Ganyigbo and Uanikin,2022-08-07 00:00:00,20,8,2022-08-07,2022.0,8.0,Rainy,0.4
+Lagos,Ikorodu,Gberigbe,2022-08-07 00:00:00,168,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Ojo,lgbo Elerin,2022-09-07 00:00:00,76,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Ikorodu,"lgbogbo, Ajebo, lgbomorogun",24/06/2022,386,245,2022-06-24,2022.0,6.0,Rainy,0.6347150259067358
+Lagos,Ikorodu,lgboye,2022-08-07 00:00:00,22,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Epe,"lgboye, Erepoto,-lraye Oke,",2022-10-07 00:00:00,23,0,2022-10-07,2022.0,10.0,Rainy,0.0
+Lagos,Epe,"lgboye, Erepoto, lraye-Oke, Ebute-Afuye,",2022-09-07 00:00:00,40,12,2022-09-07,2022.0,9.0,Rainy,0.3
+Lagos,Badagry,Uanikin,2022-08-07 00:00:00,110,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Ikorodu,Uede,2022-08-07 00:00:00,97,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Ojo,Uedodo/Uagemo,2022-09-07 00:00:00,58,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Ifako-Ijaye,iju Waterworks,2022-08-07 00:00:00,19,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Ikeja,lkeja along road ..,22/09/2022,975,0,2022-09-22,2022.0,9.0,Rainy,0.0
+Lagos,Alimosho,!kola,2022-08-07 00:00:00,16,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Alimosho,lkotun,2022-08-07 00:00:00,12,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Alimosho,lpaja Command,2022-12-09 00:00:00,25,0,2022-12-09,2022.0,12.0,Dry,0.0
+Lagos,Epe,lrayeOke,2022-08-07 00:00:00,123,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Ojo,lyana Oba,2022-09-07 00:00:00,11,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Eti-Osa,Lekki(Springbrook Estate),2022-08-07 00:00:00,1500,390,2022-08-07,2022.0,8.0,Rainy,0.26
+Lagos,Kosofe,Mende,2022-12-09 00:00:00,10,10,2022-12-09,2022.0,12.0,Dry,1.0
+Lagos,Agege,Moshalashi Alhaja area,18/09/2022,42,0,2022-09-18,2022.0,9.0,Rainy,0.0
+Lagos,Ikorodu,Mowo Kekere,2022-09-07 00:00:00,79,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Epe,Odomola Kula-Nia,2022-08-07 00:00:00,120,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Kosofe,Ogudu,2022-09-07 00:00:00,14,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Kosofe,Ogun River,2022-09-07 00:00:00,43,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Ikorodu,Oke-Eletu,2022-08-07 00:00:00,102,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Lagos,Alimosho,Olubondu,2022-12-09 00:00:00,560,78,2022-12-09,2022.0,12.0,Dry,0.1392857142857143
+Lagos,Alimosho,Olubondu,2022-12-09 00:00:00,78,78,2022-12-09,2022.0,12.0,Dry,1.0
+Lagos,Agege,OrileAgege,2022-09-07 00:00:00,19,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Agege,Orile-Agege,2022-08-07 00:00:00,250,54,2022-08-07,2022.0,8.0,Rainy,0.216
+Lagos,Agege,"Ori/e-Agege, Oke-koto, Adedosu & Afa-nla",2022-09-07 00:00:00,123,31,2022-09-07,2022.0,9.0,Rainy,0.25203252032520324
+Lagos,Alimosho,"Orisumbare, Oke-lshagun and Agbado-oke",2022-09-07 00:00:00,621,246,2022-09-07,2022.0,9.0,Rainy,0.3961352657004831
+Lagos,Alimosho,"Orisumbare, Oke-lshagun, Agbado-Oke, Ayobo, lkotun",2022-10-07 00:00:00,750,201,2022-10-07,2022.0,10.0,Rainy,0.268
+Lagos,Ojo,"Ota-Awori, lyana-Oba, lgbe-Elerin Aiyedoto, lgbo-elerin, Uedodo, Forbe, Ota- Awori,",2022-08-07 00:00:00,56,14,2022-08-07,2022.0,8.0,Rainy,0.25
+Lagos,Ojo,OtoAwori,2022-09-07 00:00:00,13,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Lagos,Ojo,"Oto-awori, lyana-oba, lgbo elerin, Aiyedoto",2022-10-07 00:00:00,30,0,2022-10-07,2022.0,10.0,Rainy,0.0
+Lagos,Agege,"Otubu, Okekotm",17/09/2022,109,0,2022-09-17,2022.0,9.0,Rainy,0.0
+Lagos,Apapa,"Sari-Iganmu, ijora-badia & Orile-lganmu",2022-09-07 00:00:00,1440,486,2022-09-07,2022.0,9.0,Rainy,0.3375
+Lagos,Ojo,Volkswagen,2022-09-07 00:00:00,77,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Nasarawa,Toto,".,
+Kanaworo",21/09/2022,953,298,2022-09-21,2022.0,9.0,Rainy,0.3126967471143757
+Nasarawa,Toto,ihemkpa,21/09/2022,901,465,2022-09-21,2022.0,9.0,Rainy,0.516093229744728
+Nasarawa,Toto,Otondo,21/9/2022,346,153,2022-09-21,2022.0,9.0,Rainy,0.4421965317919075
+Nasarawa,Toto,lgi,21/9/2022,484,262,2022-09-21,2022.0,9.0,Rainy,0.5413223140495868
+Nasarawa,Toto,Kaita,21/9/2022,439,176,2022-09-21,2022.0,9.0,Rainy,0.4009111617312073
+Nasarawa,Toto,fredeya,21/9/2022,423,299,2022-09-21,2022.0,9.0,Rainy,0.706855791962175
+Nasarawa,Toto,Ogbera,21/9/2022,961,534,2022-09-21,2022.0,9.0,Rainy,0.5556711758584808
+Nasarawa,Toto,Liberia,21/9/2022,387,275,2022-09-21,2022.0,9.0,Rainy,0.710594315245478
+Nasarawa,Doma,Obenda,21/9/2022,345,243,2022-09-21,2022.0,9.0,Rainy,0.7043478260869566
+Nasarawa,Doma,Otezokpa,21/9/2022,354,191,2022-09-21,2022.0,9.0,Rainy,0.53954802259887
+Nasarawa,Doma,Achepe,21/9/2022,586,174,2022-09-21,2022.0,9.0,Rainy,0.29692832764505117
+Nasarawa,Doma,ijiwo,21/9/2022,286,97,2022-09-21,2022.0,9.0,Rainy,0.33916083916083917
+Nasarawa,Doma,Odazede,21/9/2022,687,377,2022-09-21,2022.0,9.0,Rainy,0.5487627365356623
+Nasarawa,Doma,Akpanaja,21/9/2022,258,93,2022-09-21,2022.0,9.0,Rainy,0.36046511627906974
+Nasarawa,Doma,Otariza,21/9/2022,434,211,2022-09-21,2022.0,9.0,Rainy,0.4861751152073733
+Nasarawa,Doma,Olegazbulu,21/9/2022,360,145,2022-09-21,2022.0,9.0,Rainy,0.4027777777777778
+Nasarawa,Doma,Anagoza,21/9/2022,295,178,2022-09-21,2022.0,9.0,Rainy,0.6033898305084746
+Nasarawa,Doma,Osobo,21/9/2022,275,99,2022-09-21,2022.0,9.0,Rainy,0.36
+Nasarawa,Doma,Akanaja,21/9/2022,173,87,2022-09-21,2022.0,9.0,Rainy,0.5028901734104047
+Nasarawa,Doma,Agyema,21/9/2022,543,305,2022-09-21,2022.0,9.0,Rainy,0.5616942909760589
+Nasarawa,Doma,Kwatan Bala,21/9/2022,674,435,2022-09-21,2022.0,9.0,Rainy,0.6454005934718101
+Nasarawa,Doma,Unspecified,21/9/2022,248,134,2022-09-21,2022.0,9.0,Rainy,0.5403225806451613
+Nasarawa,Doma,Abuja-Ozon,21/9/2022,567,287,2022-09-21,2022.0,9.0,Rainy,0.5061728395061729
+Nasarawa,Doma,0/ogodu,21/9/2022,286,86,2022-09-21,2022.0,9.0,Rainy,0.3006993006993007
+Nasarawa,Doma,Apirigbo,21/9/2022,425,278,2022-09-21,2022.0,9.0,Rainy,0.6541176470588236
+Nasarawa,Doma,Guto,21/9/2022,378,257,2022-09-21,2022.0,9.0,Rainy,0.6798941798941799
+Nasarawa,Doma,Uwhe,21/9/2022,973,458,2022-09-21,2022.0,9.0,Rainy,0.47070914696813976
+Nasarawa,Doma,Adayi,21/9/2022,437,379,2022-09-21,2022.0,9.0,Rainy,0.8672768878718535
+Nasarawa,Doma,lllah,21/9/2022,262,163,2022-09-21,2022.0,9.0,Rainy,0.6221374045801527
+Nasarawa,Doma,lgyem,21/9/2022,573,479,2022-09-21,2022.0,9.0,Rainy,0.8359511343804538
+Nasarawa,Doma,Abatuku,21/9/2022,643,368,2022-09-21,2022.0,9.0,Rainy,0.5723172628304821
+Nasarawa,Awe,Abuni,18/9/2022,278,170,2022-09-18,2022.0,9.0,Rainy,0.6115107913669064
+Nasarawa,Awe,Gadadima Awe,18/9/2022,569,379,2022-09-18,2022.0,9.0,Rainy,0.6660808435852372
+Nasarawa,Awe,Kofin Moye I,18/9/2022,367,164,2022-09-18,2022.0,9.0,Rainy,0.44686648501362397
+Nasarawa,Awe,MagajiAwe,18/9/2022,789,564,2022-09-18,2022.0,9.0,Rainy,0.714828897338403
+Nasarawa,Awe,Makawangiji Awe,18/9/2022,257,95,2022-09-18,2022.0,9.0,Rainy,0.36964980544747084
+Nasarawa,Awe,Akiri,18/9/2022,490,377,2022-09-18,2022.0,9.0,Rainy,0.7693877551020408
+Nasarawa,Awe,Azara,18/9/2022,387,198,2022-09-18,2022.0,9.0,Rainy,0.5116279069767442
+Nasarawa,Awe,Ribi,18/9/2022,743,651,2022-09-18,2022.0,9.0,Rainy,0.8761776581426649
+Nasarawa,Awe,Barkano,18/9/2022,539,389,2022-09-18,2022.0,9.0,Rainy,0.7217068645640075
+Nasarawa,Awe,Jagan Gayam,18/9/2022,268,123,2022-09-18,2022.0,9.0,Rainy,0.458955223880597
+Nasarawa,Awe,Tunga,1 8/9/2022,423,321,,,,Rainy,0.7588652482269503
+Nasarawa,Awe,Booga,18/9/2022,222,186,2022-09-18,2022.0,9.0,Rainy,0.8378378378378378
+Nasarawa,Obi,Obi,15/9/2022,256,145,2022-09-15,2022.0,9.0,Rainy,0.56640625
+Nasarawa,Obi,TundaAdahu,15/9/2022,365,257,2022-09-15,2022.0,9.0,Rainy,0.7041095890410959
+Nasarawa,Obi,Odubu,2022-05-09 00:00:00,211,168,2022-05-09,2022.0,5.0,Rainy,0.7962085308056872
+Nasarawa,Obi,Daddara,15/9/2022,389,278,2022-09-15,2022.0,9.0,Rainy,0.7146529562982005
+Nasarawa,Obi,Ashupe,15/9/2022,379,299,2022-09-15,2022.0,9.0,Rainy,0.7889182058047494
+Nasarawa,Obi,Oma,15/9/2022,246,173,2022-09-15,2022.0,9.0,Rainy,0.7032520325203252
+Nasarawa,Obi,Atabula,15/9/2022,522,348,2022-09-15,2022.0,9.0,Rainy,0.6666666666666666
+Nasarawa,Lafia,Latia Town,16/9/2022,201,184,2022-09-16,2022.0,9.0,Rainy,0.9154228855721394
+Nasarawa,Lafia,Assakio,16/9/2022,413,344,2022-09-16,2022.0,9.0,Rainy,0.8329297820823245
+Nasarawa,Lafia,Gidan Kabu,16/9/2022,199,199,2022-09-16,2022.0,9.0,Rainy,1.0
+Nasarawa,Lafia,Tunga Assakio,16/9/2022,298,196,2022-09-16,2022.0,9.0,Rainy,0.6577181208053692
+Nasarawa,Lafia,Fadama Buna,16/9/2022,374,263,2022-09-16,2022.0,9.0,Rainy,0.7032085561497327
+Nasarawa,Nasarawa-Eggon,Agfdi,16/9/2022,389,274,2022-09-16,2022.0,9.0,Rainy,0.7043701799485861
+Nasarawa,Nasarawa-Eggon,Akun,16/9/2022,478,381,2022-09-16,2022.0,9.0,Rainy,0.797071129707113
+Nasarawa,Nasarawa-Eggon,Uzi,16/9/2022,271,168,2022-09-16,2022.0,9.0,Rainy,0.6199261992619927
+Nasarawa,Nasarawa-Eggon,Kabu,16/9/2022,123,123,2022-09-16,2022.0,9.0,Rainy,1.0
+Nasarawa,Kokona,Kokona,17/9/2022,392,392,2022-09-17,2022.0,9.0,Rainy,1.0
+Nasarawa,Kokona,Maro,17/9/2022,254,199,2022-09-17,2022.0,9.0,Rainy,0.7834645669291339
+Nasarawa,Kokona,Mari,17/9/2022,476,476,2022-09-17,2022.0,9.0,Rainy,1.0
+Nasarawa,Kokona,Anba,17/9/2022,174,102,2022-09-17,2022.0,9.0,Rainy,0.5862068965517241
+Nasarawa,Kokona,Bassa,17/9/2022,289,205,2022-09-17,2022.0,9.0,Rainy,0.7093425605536332
+Nasarawa,Kokona,Garaku,17/9/2022,321,297,2022-09-17,2022.0,9.0,Rainy,0.9252336448598131
+Nasarawa,Keffi,KeffiTown,17/9/2022,436,321,2022-09-17,2022.0,9.0,Rainy,0.7362385321100917
+Nasarawa,Karu,One Man Village,17/9/2022,543,237,2022-09-17,2022.0,9.0,Rainy,0.43646408839779005
+Nasarawa,Karu,Karshi,17/9/2022,432,167,2022-09-17,2022.0,9.0,Rainy,0.38657407407407407
+Nasarawa,Karu,Pante,17/9/2022,367,274,2022-09-17,2022.0,9.0,Rainy,0.7465940054495913
+Nasarawa,Karu,Gitata,17/9/2022,235,179,2022-09-17,2022.0,9.0,Rainy,0.7617021276595745
+Nasarawa,Karu,Rafin Kwara,17/9/2022,654,469,2022-09-17,2022.0,9.0,Rainy,0.7171253822629969
+Nasarawa,Karu,Taka lafrya,17/9/2022,239,150,2022-09-17,2022.0,9.0,Rainy,0.6276150627615062
+Nasarawa,Nasarawa,Guto,18/9/2022,499,326,2022-09-18,2022.0,9.0,Rainy,0.6533066132264529
+Nasarawa,Nasarawa,Uwhe,18/9/2022,543,432,2022-09-18,2022.0,9.0,Rainy,0.7955801104972375
+Nasarawa,Nasarawa,Adayi,18/9/2022,322,268,2022-09-18,2022.0,9.0,Rainy,0.8322981366459627
+Nasarawa,Nasarawa,Liiah,18/9/2022,652,261,2022-09-18,2022.0,9.0,Rainy,0.4003067484662577
+Nasarawa,Nasarawa,Abatuku,18/9/2022,559,386,2022-09-18,2022.0,9.0,Rainy,0.6905187835420393
+Nasarawa,Nasarawa,Anewa,18/9/2022,389,173,2022-09-18,2022.0,9.0,Rainy,0.44473007712082263
+Nasarawa,Nasarawa,Ayele,18/09/2022,581,389,2022-09-18,2022.0,9.0,Rainy,0.6695352839931153
+Nasarawa,Wamba,Wamba,16/9/2022,478,365,2022-09-16,2022.0,9.0,Rainy,0.7635983263598326
+Nasarawa,Wamba,Kurumi Takwayi,16/9/2022,200,179,2022-09-16,2022.0,9.0,Rainy,0.895
+Nasarawa,Wamba,mama,16/9/2022,140,140,2022-09-16,2022.0,9.0,Rainy,1.0
+Nasarawa,Wamba,Fari Ruwa,16/9/2022,150,150,2022-09-16,2022.0,9.0,Rainy,1.0
+Nasarawa,Wamba,KaduAro,16/9/2022,100,100,2022-09-16,2022.0,9.0,Rainy,1.0
+Niger,Agwara,Unspecified,2022-01-07 00:00:00,1949,1949,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Borgu,Unspecified,2022-01-07 00:00:00,4223,4223,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Borgu,Unspecified,2022-01-07 00:00:00,1600,1600,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Bosso,Unspecified,2022-01-07 00:00:00,1624,1624,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Gurara,Unspecified,2022-01-07 00:00:00,2924,2924,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Katcha,..,2022-01-07 00:00:00,1300,1300,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Kontagora,Unspecified,2022-01-07 00:00:00,2111,2111,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Lapai,Unspecified,2022-01-07 00:00:00,975,975,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Lavun,Unspecified,2022-01-07 00:00:00,1625,1625,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Magama,Unspecified,2022-01-07 00:00:00,2924,2924,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Mariga,Unspecified,2022-01-07 00:00:00,650,650,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Mashegu,.,2022-01-07 00:00:00,975,975,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Mokwa,Unspecified,2022-01-07 00:00:00,1949,1949,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Muya,Unspecified,2022-01-07 00:00:00,975,975,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Paikoro,Unspecified,2022-01-07 00:00:00,2599,2599,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Rafi,Unspecified,2022-01-07 00:00:00,1625,1625,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Shiroro,Unspecified,2022-01-07 00:00:00,812,812,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Wushishi,Unspecified,2022-01-07 00:00:00,1624,1624,2022-01-07,2022.0,1.0,Dry,1.0
+Niger,Lavun,"Egagi, Saaci-Nku, Mambe, Nku, Kosso, Kuchita, Fokpo, Kutigi-side, Ndakogitsu, Tsoegi, Tsonfada-gabi",2022-01-09 00:00:00,3540,2459,2022-01-09,2022.0,1.0,Dry,0.6946327683615819
+Niger,Southern Ijaw,"Bakun lku. Chaza, Kwamba, Tungan-tsauni, Dawaki",22/09/2022,1016,706,2022-09-22,2022.0,9.0,Rainy,0.6948818897637795
+Ogun,Egbado North,Ayetoro,2022-09-03 00:00:00,292,0,2022-09-03,2022.0,9.0,Rainy,0.0
+Ogun,Abeokuta South,!sale Oj kuto,2022-12-03 00:00:00,976,0,2022-12-03,2022.0,12.0,Dry,0.0
+Ogun,Abeokuta North,"Lafenwa Market,Soyoye Rounder",22/03/2022,230,0,2022-03-22,2022.0,3.0,Rainy,0.0
+Ogun,Ewekoro,lsewo-Dotun,2022-09-05 00:00:00,379,0,2022-09-05,2022.0,9.0,Rainy,0.0
+Ogun,Obafemi-Owode,"Abufe-Qke,Adigbe,Owode",2022-10-05 00:00:00,715,0,2022-10-05,2022.0,10.0,Rainy,0.0
+Ogun,Ifo,Arigbajo,2022-06-06 00:00:00,653,0,2022-06-06,2022.0,6.0,Rainy,0.0
+Ogun,Imeko-Afon,"Agbote,lsale Oja Lafenwa",21/06/2022,461,0,2022-06-21,2022.0,6.0,Rainy,0.0
+Ogun,Ado-Odo/Ota,Konifewo,30/06/2022,407,0,2022-06-30,2022.0,6.0,Rainy,0.0
+Ogun,Ijebu East,Ogbere,2022-06-07 00:00:00,386,0,2022-06-07,2022.0,6.0,Rainy,0.0
+Ogun,Odeda,"Odeda Town Obantoko,Gbonagon",17/07/2022,386,0,2022-07-17,2022.0,7.0,Rainy,0.0
+Osun,Irewole,"lkire, Wasimi, Balogun, Kobo, Asejire",2022-07-06 00:00:00,87,21,2022-07-06,2022.0,7.0,Rainy,0.2413793103448276
+Osun,Aiyedade,"Gbongan, Ode-Omu, Oogi, Orile-Gwu",2022-07-07 00:00:00,134,41,2022-07-07,2022.0,7.0,Rainy,0.30597014925373134
+Osun,Egbedore,"Awo, Ara, Dada Estate, Ofatedo, ldo-Osun",14/07/2022,86,32,2022-07-14,2022.0,7.0,Rainy,0.37209302325581395
+Osun,Ejigbo,"Ejigbo, /sundunrin, lf Odan, Masifa, Oguro,",14/07/2022,302,98,2022-07-14,2022.0,7.0,Rainy,0.32450331125827814
+Osun,Ede North,"Ede, Owode, Araromi, Sekona, Akod",18/07/2022,138,75,2022-07-18,2022.0,7.0,Rainy,0.5434782608695652
+Osun,Ilesha West,"lrojo, Sabo, Wesley, Bolorunduro, Olomilagbala, Omiru, Kajola",2022-07-09 00:00:00,636,76,2022-07-09,2022.0,7.0,Rainy,0.11949685534591195
+Osun,Ife Central,"lfe, Oke-Ogbo, lremo, Mokuro,Opa",2022-07-10 00:00:00,123,305,2022-07-10,2022.0,7.0,Rainy,2.4796747967479673
+Osun,Oriade,"ijebu-Jesa, Owena, lkeji, lwoye,",2022-07-10 00:00:00,213,92,2022-07-10,2022.0,7.0,Rainy,0.431924882629108
+Osun,Osogbo,"Osogbo, Hie, Oba,Gbonmi, Oke-Bale",2022-07-10 00:00:00,305,205,2022-07-10,2022.0,7.0,Rainy,0.6721311475409836
+Osun,Boluwaduro,"Otan Ayegbaju, Eripa, lresi, fgbajo, Oke-frun",2022-07-10 00:00:00,239,68,2022-07-10,2022.0,7.0,Rainy,0.28451882845188287
+Oyo,Oyo East,Koso Area,2022-01-03 00:00:00,100,7,2022-01-03,2022.0,1.0,Dry,0.07
+Oyo,Orelope,lgboho,2022-04-03 00:00:00,130,40,2022-04-03,2022.0,4.0,Rainy,0.3076923076923077
+Oyo,Ogo Oluwa,Ajaawa,2022-01-04 00:00:00,135,25,2022-01-04,2022.0,1.0,Dry,0.18518518518518517
+Oyo,Olorunsogo,lgbeti,2022-01-04 00:00:00,130,50,2022-01-04,2022.0,1.0,Dry,0.38461538461538464
+Oyo,Ori Ire,/koyi-fle,2022-01-04 00:00:00,170,30,2022-01-04,2022.0,1.0,Dry,0.17647058823529413
+Oyo,Saki East,Ago-Amodu,2022-07-04 00:00:00,170,5,2022-07-04,2022.0,7.0,Rainy,0.029411764705882353
+Oyo,Saki East,Septeri,2022-07-04 00:00:00,240,70,2022-07-04,2022.0,7.0,Rainy,0.2916666666666667
+Oyo,Itesiwaju,Otu,2022-01-05 00:00:00,180,70,2022-01-05,2022.0,1.0,Dry,0.3888888888888889
+Oyo,Atigbo,Tede,18/05/2022,150,6,2022-05-18,2022.0,5.0,Rainy,0.04
+Oyo,Atigbo,Ago-Are,2022-01-06 00:00:00,100,100,2022-01-06,2022.0,1.0,Dry,1.0
+Oyo,Kajola,lganna,2022-01-06 00:00:00,60,2,2022-01-06,2022.0,1.0,Dry,0.03333333333333333
+Oyo,Surulere,lresa-Adu,2022-01-06 00:00:00,135,78,2022-01-06,2022.0,1.0,Dry,0.5777777777777777
+Oyo,Kajola,"lsemi,Oke--Ogun",2022-01-06 00:00:00,100,25,2022-01-06,2022.0,1.0,Dry,0.25
+Oyo,Kajola,lwere-Oke/llaji-Oke,2022-01-06 00:00:00,120,50,2022-01-06,2022.0,1.0,Dry,0.4166666666666667
+Oyo,Afijio,Jobele,2022-01-06 00:00:00,126,40,2022-01-06,2022.0,1.0,Dry,0.31746031746031744
+Oyo,Kajola,Ogbenje/O/e/e,2022-01-06 00:00:00,96,12,2022-01-06,2022.0,1.0,Dry,0.125
+Oyo,Iseyin,Oke--Eyin,2022-01-06 00:00:00,150,0,2022-01-06,2022.0,1.0,Dry,0.0
+Oyo,Kajola,Okeho,2022-01-06 00:00:00,1130,14,2022-01-06,2022.0,1.0,Dry,0.012389380530973451
+Oyo,Saki West,Oke-OdeAgoluabi,2022-01-06 00:00:00,118,40,2022-01-06,2022.0,1.0,Dry,0.3389830508474576
+Oyo,Atiba,Oyo,2022-01-06 00:00:00,135,0,2022-01-06,2022.0,1.0,Dry,0.0
+Oyo,Iwajowa,/wera-lle,2022-01-07 00:00:00,73,5,2022-01-07,2022.0,1.0,Dry,0.0684931506849315
+Oyo,Ibarapa Central,lgboora,2022-06-07 00:00:00,150,30,2022-06-07,2022.0,6.0,Rainy,0.2
+Oyo,Akinyele,Moniya,2022-10-07 00:00:00,250,25,2022-10-07,2022.0,10.0,Rainy,0.1
+Plateau,Wase,Kadarko,2022-01-01 00:00:00,632,402,2022-01-01,2022.0,1.0,Dry,0.6360759493670886
+Plateau,Langtang South,Timshat,14/03/2022,562,253,2022-03-14,2022.0,3.0,Rainy,0.4501779359430605
+Plateau,Langtang South,Fajul,2022-03-05 00:00:00,301,198,2022-03-05,2022.0,3.0,Rainy,0.6578073089700996
+Plateau,Langtang North,Gasham,2022-05-05 00:00:00,260,98,2022-05-05,2022.0,5.0,Rainy,0.3769230769230769
+Plateau,Langtang North,Dingjor,27/05/2022,256,136,2022-05-27,2022.0,5.0,Rainy,0.53125
+Plateau,Langtang North,Zango,28/05/2022,271,121,2022-05-28,2022.0,5.0,Rainy,0.44649446494464945
+Plateau,Langtang North,Yashi,29/05/2022,286,150,2022-05-29,2022.0,5.0,Rainy,0.5244755244755245
+Plateau,Mikang,Baltip,2022-01-06 00:00:00,534,29,2022-01-06,2022.0,1.0,Dry,0.054307116104868915
+Plateau,Langtang South,Dadin Kowa,2022-01-06 00:00:00,672,311,2022-01-06,2022.0,1.0,Dry,0.46279761904761907
+Plateau,Mikang,Garkawa,2022-01-06 00:00:00,473,27,2022-01-06,2022.0,1.0,Dry,0.05708245243128964
+Plateau,Langtang South,Zamban,2022-01-06 00:00:00,356,215,2022-01-06,2022.0,1.0,Dry,0.6039325842696629
+Plateau,Langtang South,Lamdual,2022-06-06 00:00:00,326,114,2022-06-06,2022.0,6.0,Rainy,0.3496932515337423
+Plateau,Langtang South,Magama,2022-07-06 00:00:00,572,282,2022-07-06,2022.0,7.0,Rainy,0.493006993006993
+Plateau,Shendam,Shimankar,23/06/2022,1871,1109,2022-06-23,2022.0,6.0,Rainy,0.5927311598075895
+Plateau,Wase,Ayal,2022-01-07 00:00:00,411,478,2022-01-07,2022.0,1.0,Dry,1.1630170316301702
+Plateau,Wase,Chaplwai,2022-01-07 00:00:00,414,221,2022-01-07,2022.0,1.0,Dry,0.533816425120773
+Plateau,Mikang,Lalin,2022-01-07 00:00:00,552,36,2022-01-07,2022.0,1.0,Dry,0.06521739130434782
+Plateau,Langtang South,Lasher,2022-01-07 00:00:00,416,210,2022-01-07,2022.0,1.0,Dry,0.5048076923076923
+Plateau,Mikang,Piapung,2022-01-07 00:00:00,566,33,2022-01-07,2022.0,1.0,Dry,0.05830388692579505
+Plateau,Langtang South,Pilgani,2022-01-07 00:00:00,506,312,2022-01-07,2022.0,1.0,Dry,0.616600790513834
+Plateau,Langtang South,SabonGida,2022-01-07 00:00:00,561,252,2022-01-07,2022.0,1.0,Dry,0.44919786096256686
+Plateau,Shendam,Kalong,17/07/2022,1756,897,2022-07-17,2022.0,7.0,Rainy,0.5108200455580866
+Plateau,Wase,Duwi,23/07/2022,492,135,2022-07-23,2022.0,7.0,Rainy,0.27439024390243905
+Plateau,Wase,G/Balak,23/07/2022,476,152,2022-07-23,2022.0,7.0,Rainy,0.31932773109243695
+Plateau,Wase,G/Kogi,23/07/2022,413,223,2022-07-23,2022.0,7.0,Rainy,0.5399515738498789
+Plateau,Jos North,Gangare,23/07/2022,95,95,2022-07-23,2022.0,7.0,Rainy,1.0
+Plateau,Kanke,Gugur,23/07/2022,2010,0,2022-07-23,2022.0,7.0,Rainy,0.0
+Plateau,Jos North,Rikkos,23/07/2022,150,150,2022-07-23,2022.0,7.0,Rainy,1.0
+Plateau,Wase,Saluwe,23/07/2022,426,252,2022-07-23,2022.0,7.0,Rainy,0.5915492957746479
+Plateau,Shendam,shimankar Poeteng,28/08/2022,116,87,2022-08-28,2022.0,8.0,Rainy,0.75
+Plateau,Shendam,"Shimankar kawan,",28/08/2022,278,167,2022-08-28,2022.0,8.0,Rainy,0.6007194244604317
+Plateau,Shendam,Shimankar Yashi,28/08/2022,99,53,2022-08-28,2022.0,8.0,Rainy,0.5353535353535354
+Plateau,Shendam,Shimankar,28/08/2022,175,106,2022-08-28,2022.0,8.0,Rainy,0.6057142857142858
+Plateau,Shendam,Shimankar Ndayak,28/08/2022,217,118,2022-08-28,2022.0,8.0,Rainy,0.543778801843318
+Plateau,Shendam,Shimankar Nfan,28/08/2022,89,61,2022-08-28,2022.0,8.0,Rainy,0.6853932584269663
+Plateau,Shendam,Shimarka Miskoon Manu,28/08/2022,131,92,2022-08-28,2022.0,8.0,Rainy,0.7022900763358778
+Plateau,Shendam,Shimarka Ungwa kurgwi,28/08/2022,227,159,2022-08-28,2022.0,8.0,Rainy,0.7004405286343612
+Plateau,Shendam,Shimarka Mangap,28/08/2022,105,84,2022-08-28,2022.0,8.0,Rainy,0.8
+Plateau,Shendam,Kalong,28/08/2022,197,179,2022-08-28,2022.0,8.0,Rainy,0.9086294416243654
+Plateau,Shendam,goesa,28/08/2022,136,107,2022-08-28,2022.0,8.0,Rainy,0.7867647058823529
+Plateau,Shendam,Jimduut-Kalong,28/08/2022,89,56,2022-08-28,2022.0,8.0,Rainy,0.6292134831460674
+Plateau,Shendam,Gongvel-Kalong,28/08/2022,158,109,2022-08-28,2022.0,8.0,Rainy,0.689873417721519
+Plateau,Shendam,wali-Kalong,28/08/2022,102,73,2022-08-28,2022.0,8.0,Rainy,0.7156862745098039
+Plateau,Shendam,Maanbial ward ..,28/08/2022,86,69,2022-08-28,2022.0,8.0,Rainy,0.8023255813953488
+Plateau,Shendam,Kurung-Lazai,28/08/2022,96,76,2022-08-28,2022.0,8.0,Rainy,0.7916666666666666
+Plateau,Quaan Pan,kwande,28/08/2022,153,133,2022-08-28,2022.0,8.0,Rainy,0.869281045751634
+Plateau,Quaan Pan,Bakin,28/08/2022,177,148,2022-08-28,2022.0,8.0,Rainy,0.8361581920903954
+Plateau,Quaan Pan,Turmiang,28/08/2022,201,153,2022-08-28,2022.0,8.0,Rainy,0.7611940298507462
+Plateau,Quaan Pan,Kurgwi eastjwest,28/08/2022,86,75,2022-08-28,2022.0,8.0,Rainy,0.872093023255814
+Plateau,Quaan Pan,Bwall,28/08/2022,176,157,2022-08-28,2022.0,8.0,Rainy,0.8920454545454546
+Plateau,Quaan Pan,Nakum,28/08/2022,281,231,2022-08-28,2022.0,8.0,Rainy,0.8220640569395018
+Plateau,Quaan Pan,Jibial,28/08/2022,159,123,2022-08-28,2022.0,8.0,Rainy,0.7735849056603774
+Plateau,Quaan Pan,namu central,28/08/2022,146,105,2022-08-28,2022.0,8.0,Rainy,0.7191780821917808
+Plateau,Quaan Pan,Lankaku,28/08/2022,127,109,2022-08-28,2022.0,8.0,Rainy,0.8582677165354331
+Plateau,Quaan Pan,Jetta,28/08/2022,294,237,2022-08-28,2022.0,8.0,Rainy,0.8061224489795918
+Plateau,Mikang,Baltep,28/08/2022,108,112,2022-08-28,2022.0,8.0,Rainy,1.037037037037037
+Plateau,Mikang,Lalin,28/08/2022,186,109,2022-08-28,2022.0,8.0,Rainy,0.5860215053763441
+Plateau,Mikang,piapung,28/08/2022,73,107,2022-08-28,2022.0,8.0,Rainy,1.4657534246575343
+Plateau,Mikang,Lifidi,28/08/2022,211,81,2022-08-28,2022.0,8.0,Rainy,0.38388625592417064
+Plateau,Mikang,Garkawa ',28/08/2022,93,192,2022-08-28,2022.0,8.0,Rainy,2.064516129032258
+Plateau,Mikang,Shamang,28/08/2022,119,71,2022-08-28,2022.0,8.0,Rainy,0.5966386554621849
+Plateau,Mikang,padpung,28/08/2022,107,73,2022-08-28,2022.0,8.0,Rainy,0.6822429906542056
+Plateau,Pankshin,Wuseli-Sum,28/08/2022,91,87,2022-08-28,2022.0,8.0,Rainy,0.9560439560439561
+Plateau,Pankshin,Balang,28/08/2022,107,89,2022-08-28,2022.0,8.0,Rainy,0.8317757009345794
+Plateau,Pankshin,kalep,28/08/2022,95,67,2022-08-28,2022.0,8.0,Rainy,0.7052631578947368
+Plateau,Pankshin,Chigwong,28/08/2022,175,131,2022-08-28,2022.0,8.0,Rainy,0.7485714285714286
+Plateau,Pankshin,Wuseli-Yan,28/08/2022,211,178,2022-08-28,2022.0,8.0,Rainy,0.8436018957345972
+Plateau,Pankshin,Fier,28/08/2022,116,105,2022-08-28,2022.0,8.0,Rainy,0.9051724137931034
+Plateau,Pankshin,Wokkos,28/08/2022,235,210,2022-08-28,2022.0,8.0,Rainy,0.8936170212765957
+Plateau,Pankshin,Ner,28/08/2022,201,178,2022-08-28,2022.0,8.0,Rainy,0.8855721393034826
+Plateau,Pankshin,Tazuk,28/08/2022,99,85,2022-08-28,2022.0,8.0,Rainy,0.8585858585858586
+Plateau,Pankshin,Kalong,28/08/2022,82,63,2022-08-28,2022.0,8.0,Rainy,0.7682926829268293
+Plateau,Pankshin,Kor,28/08/2022,76,41,2022-08-28,2022.0,8.0,Rainy,0.5394736842105263
+Rivers,Obia/Akpor,"Erico, Mini Ndai",22/06/2022,1841,0,2022-06-22,2022.0,6.0,Rainy,0.0
+Rivers,Asari-Toru,Unspecified,2022-02-06 00:00:00,1413,0,2022-02-06,2022.0,2.0,Dry,0.0
+Sokoto,Shagari,"Adare, Jaranja, Yamma Gada & Sabon Garin Shagari",2022-10-08 00:00:00,1405,391,2022-10-08,2022.0,10.0,Rainy,0.2782918149466192
+Sokoto,Binji,"Binji Town. Tudun Kose, Maikulki, lnname, Samama & JamalL",19/08/2022,3815,1447,2022-08-19,2022.0,8.0,Rainy,0.37929226736566185
+Sokoto,Dange-Shuni,"Dange, Fajaldu & Gidan Gara",19/08/2022,3432,1269,2022-08-19,2022.0,8.0,Rainy,0.36975524475524474
+Sokoto,Goronyo,"Goronyo
+Town,Taloka,Shinaka,Bi,jingu,Gorau,Takakube,Rimawa,Tolaske,Fala/iya,Kwa kwazo,Kojiyo,Bari,Kagara,Sabon Garin Dole, Boye Kai And Balla",2022-03-09 00:00:00,1650,410,2022-03-09,2022.0,3.0,Rainy,0.24848484848484848
+Sokoto,Wamako,"Guiwa Be/a, Gidan Ja'Oji & Gidan Yero",2022-10-08 00:00:00,1643,597,2022-10-08,2022.0,10.0,Rainy,0.3633597078514912
+Sokoto,Tangaza,"Sakkwai; Shiyar Ajiya, Makera, Runji & Shiyar Magaji",2022-10-08 00:00:00,2321,1649,2022-10-08,2022.0,10.0,Rainy,0.7104696251615683
+Sokoto,Tambuwal,Sayyina And Kuchi,20/08/2022,691,0,2022-08-20,2022.0,8.0,Rainy,0.0
+Sokoto,Bodinga,"Sifawa, Danchadi & BangijDabaga",2022-06-08 00:00:00,978,164,2022-06-08,2022.0,6.0,Rainy,0.16768916155419222
+Taraba,Donga,"Anguwan Mission, Nyivo Nyita, Donga Town",20/07/2022,4217,0,2022-07-20,2022.0,7.0,Rainy,0.0
+Taraba,Kurmi,"Baissa, Ndaforo, Didan, Abong, Bissau/a, Njuande, Nyido, Tasso",20/07/2022,5871,0,2022-07-20,2022.0,7.0,Rainy,0.0
+Taraba,Wukari,"Bantaje, Gindin Dorowa, Nwukon,,.Jibo, Kente, Tsokundi, Ndo Ike, Ando- Katsewen, Ra-fin Kada",17/08/2022,11327,0,2022-08-17,2022.0,8.0,Rainy,0.0
+Taraba,Ussa,"Fikyu, Kpambo, Konkaen, Kutxu-Asik, Kifong, Kwesati, Kpakya",17/08/2022,8985,0,2022-08-17,2022.0,8.0,Rainy,0.0
+Taraba,Lau,"Garin-Dago, Kunini, Lau A and B, Donadda, Abbare, Mako, Bwoi Baba, BwoiSakiya",2022-02-08 00:00:00,7734,0,2022-02-08,2022.0,2.0,Dry,0.0
+Taraba,Karim-lamido,"Karim A and B, Muri 8, Jen Ardido, Jen-Kaigama, Bikwini, Karim Town, Karim Maude, Bandawa, Wuro Lace, Jen Pete!, Sabon Gari, Banbuka",14/07/2022,5501,0,2022-07-14,2022.0,7.0,Rainy,0.0
+Taraba,Jalingo,"Mayo-Gwoi, Turaki A and 8, Barade, Abl!.ia Phase l, Abuja Phase 2, Abuja Phase 3, Nyabun-kaka, Nukkai, Bobboji, Majidadi, Nta, Ma/lam Joda, W/Board, Mayo- ssa, Mile 6, Special/ist Hospital. Dinyavo, Guflum
+Jerusalem, Gui/um, Kona-Garu",25/07/2022,9243,0,2022-07-25,2022.0,7.0,Rainy,0.0
+Taraba,Takum,"Takum, Mbiya,Kpankufun, Zapata, Manya, Sufa, Shibong",17/08/2022,7426,0,2022-08-17,2022.0,8.0,Rainy,0.0
+Taraba,Ibi,"Tampara, SarkiKudu, Angwa Nufawa, Angwa Kabawa, Kafa Dampara, Doshima l, Doshima 2, Jigawa Gyada, Angwan Tebua, Angwa Nwonyo 1, Angwa Nwomyo 2",17/07/2022,9685,0,2022-07-17,2022.0,7.0,Rainy,0.0
+Taraba,Ardo-Kola,"Tau, Jauro-Dovo, Jauro-Yinu, Mayo-Ranewo, Bakin-Dutse, Panpete/, Adamu Chamber",14/08/2022,8430,0,2022-08-14,2022.0,8.0,Rainy,0.0
+Taraba,Gassol,"Wuryo, Sendirde, Mutu-Biyu, Shira, Wuro-jam, Sabon-Gida, Tutare,
+Gumduma, Nammai, Gasse/ Yarima",2022-09-07 00:00:00,8620,0,2022-09-07,2022.0,9.0,Rainy,0.0
+Taraba,Donga,Unspecified,27/07/2022,4164,0,2022-07-27,2022.0,7.0,Rainy,0.0
+Taraba,Gassol,Unspecified,26/07/2022,6828,0,2022-07-26,2022.0,7.0,Rainy,0.0
+Taraba,Jalingo,Unspecified,2022-08-07 00:00:00,1716,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Taraba,Karim-lamido,Unspecified,25/07/2022,6246,0,2022-07-25,2022.0,7.0,Rainy,0.0
+Taraba,Lau,..,25/07/2022,3666,0,2022-07-25,2022.0,7.0,Rainy,0.0
+Taraba,Wukari,Unspecified,25/07/2022,5364,0,2022-07-25,2022.0,7.0,Rainy,0.0
+Yobe,Geidam,Barko,19/07/2022,48,67,2022-07-19,2022.0,7.0,Rainy,1.3958333333333333
+Yobe,Geidam,Kusur,19/07/2022,35,51,2022-07-19,2022.0,7.0,Rainy,1.457142857142857
+Yobe,Nguru,"Afunori, Mai Dashi",2022-02-08 00:00:00,47,103,2022-02-08,2022.0,2.0,Dry,2.1914893617021276
+Yobe,Fune,Alagarno,17/08/2022,220,512,2022-08-17,2022.0,8.0,Rainy,2.327272727272727
+Yobe,Jakusko,Amshi and Dachia,2022-02-08 00:00:00,20,56,2022-02-08,2022.0,2.0,Dry,2.8
+Yobe,Jakusko,Arfani Jawur Katamma,2022-12-09 00:00:00,147,236,2022-12-09,2022.0,12.0,Dry,1.6054421768707483
+Yobe,Geidam,Awakurari,21/09/2022,565,468,2022-09-21,2022.0,9.0,Rainy,0.8283185840707965
+Yobe,Tarmua,Babangida,16/08/2022,124,345,2022-08-16,2022.0,8.0,Rainy,2.782258064516129
+Yobe,Nangere,Babiyoma,14/08/2022,17,48,2022-08-14,2022.0,8.0,Rainy,2.823529411764706
+Yobe,Bursari,Bade Gana ..,24/08/2022,70,149,2022-08-24,2022.0,8.0,Rainy,2.1285714285714286
+Yobe,Gulani,Bandila,2022-09-09 00:00:00,78,145,2022-09-09,2022.0,9.0,Rainy,1.858974358974359
+Yobe,Gulani,"Bara, Ouchi, Danga",15/07/2022,156,206,2022-07-15,2022.0,7.0,Rainy,1.3205128205128205
+Yobe,Bursari,Bayamari,24/08/2022,158,243,2022-08-24,2022.0,8.0,Rainy,1.5379746835443038
+Yobe,Tarmua,Biriri,16/08/2022,106,207,2022-08-16,2022.0,8.0,Rainy,1.9528301886792452
+Yobe,Nguru,"Basso, Missilli, Kanimari",2022-02-08 00:00:00,125,205,2022-02-08,2022.0,2.0,Dry,1.64
+Yobe,Fune,Bukarti,17/08/2022,35,63,2022-08-17,2022.0,8.0,Rainy,1.8
+Yobe,Jakusko,Bukarti,2022-02-08 00:00:00,42,97,2022-02-08,2022.0,2.0,Dry,2.3095238095238093
+Yobe,Gujba,Bukkoyel,30/08/2021,11,41,2021-08-30,2021.0,8.0,Rainy,3.727272727272727
+Yobe,Nguru,"Bulabulin, Yanchiyawa",2022-02-08 00:00:00,65,157,2022-02-08,2022.0,2.0,Dry,2.4153846153846152
+Yobe,Yusufari,Bulajaji I,2022-02-08 00:00:00,58,145,2022-02-08,2022.0,2.0,Dry,2.5
+Yobe,Tarmua,"Bu/ama Umar community, Shekau",16/08/2022,60,169,2022-08-16,2022.0,8.0,Rainy,2.816666666666667
+Yobe,Yusufari,Bulanguwa,2022-02-08 00:00:00,45,107,2022-02-08,2022.0,2.0,Dry,2.3777777777777778
+Yobe,Gulani,"Bularafa, Kukuwa, Bandilla",15/07/2022,127,128,2022-07-15,2022.0,7.0,Rainy,1.0078740157480315
+Yobe,Gulani,"Buloko/o, Chandam, L.abba, Kojoli",1 5/07/2022,83,124,,,,Rainy,1.4939759036144578
+Yobe,Bade,Bultumari Extension,2022-02-08 00:00:00,60,134,2022-02-08,2022.0,2.0,Dry,2.2333333333333334
+Yobe,Gulani,"Bumsa, Ngurum",15/07/2022,142,198,2022-07-15,2022.0,7.0,Rainy,1.3943661971830985
+Yobe,Gujba,Buni Gari,2022-08-07 00:00:00,110,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Yobe,Gujba,Buni Gari,2022-08-07 00:00:00,110,214,2022-08-07,2022.0,8.0,Rainy,1.9454545454545455
+Yobe,Gujba,"Buni Gari, Kukuwa",15/07/2022,80,167,2022-07-15,2022.0,7.0,Rainy,2.0875
+Yobe,Gujba,Buni Gari/Kukuwa,15/07/2022,194,0,2022-07-15,2022.0,7.0,Rainy,0.0
+Yobe,Gujba,Chillari,2022-05-09 00:00:00,65,129,2022-05-09,2022.0,5.0,Rainy,1.9846153846153847
+Yobe,Tarmua,Chirokusko,16/08/2022,31,57,2022-08-16,2022.0,8.0,Rainy,1.8387096774193548
+Yobe,Nangere,Chukuriwa,14/08/2022,31,93,2022-08-14,2022.0,8.0,Rainy,3.0
+Yobe,Fune,Damagum,25/06/2022,31,0,2022-06-25,2022.0,6.0,Rainy,0.0
+Yobe,Fune,Damagum,25/06/2022,31,63,2022-06-25,2022.0,6.0,Rainy,2.032258064516129
+Yobe,Fune,Damagum Damakasu Danchuwa Danchuwa Danga Kanma Dapchi,17/08/2022,249,631,2022-08-17,2022.0,8.0,Rainy,2.534136546184739
+Yobe,Damaturu,"Dapchi, Masaba",15/08/2022,59,173,2022-08-15,2022.0,8.0,Rainy,2.9322033898305087
+Yobe,Potiskum,"Daura, Bulanyiwa, Dubbol, Bauwa, Majikumna. Bulanguwa Dawasa",2022-02-08 00:00:00,23,64,2022-02-08,2022.0,2.0,Dry,2.782608695652174
+Yobe,Potiskum,Daya,22/08/2022,17,29,2022-08-22,2022.0,8.0,Rainy,1.7058823529411764
+Yobe,Bursari,"Diwi,",24/08/2022,13,43,2022-08-24,2022.0,8.0,Rainy,3.3076923076923075
+Yobe,Potiskum,Kotum DogoNini Dogo Tebo Dago Tebo Dogan Kuka Dokshi Dumburi,22/08/2022,456,967,2022-08-22,2022.0,8.0,Rainy,2.120614035087719
+Yobe,Damaturu,Dumsai and Yamdugo,16/08/2022,143,373,2022-08-16,2022.0,8.0,Rainy,2.6083916083916083
+Yobe,Fune,Dumsaij,17/08/2022,202,486,2022-08-17,2022.0,8.0,Rainy,2.405940594059406
+Yobe,Nangere,Yamdugo Fajiganari,14/08/2022,40,154,2022-08-14,2022.0,8.0,Rainy,3.85
+Yobe,Fika,Fulatari,28/08/2022,49,147,2022-08-28,2022.0,8.0,Rainy,3.0
+Yobe,Gulani,Futchimaram Gabai Gabarawa Gadaka Gadaka,15/07/2022,29,42,2022-07-15,2022.0,7.0,Rainy,1.4482758620689655
+Yobe,Potiskum,Gafala Jahur Katamma,22/08/2022,10,32,2022-08-22,2022.0,8.0,Rainy,3.2
+Yobe,Karasuwa,Gamarin Yerima.,18/08/2022,24,43,2022-08-18,2022.0,8.0,Rainy,1.7916666666666667
+Yobe,Potiskum,"Old Nangere, Saban gari, Kanda Garbi and Bombori",2022-02-08 00:00:00,12,75,2022-02-08,2022.0,2.0,Dry,6.25
+Yobe,Fune,Garga Garin Alkali,17/08/2022,210,311,2022-08-17,2022.0,8.0,Rainy,1.480952380952381
+Yobe,Gulani,Garin Baba,15/07/2022,20,37,2022-07-15,2022.0,7.0,Rainy,1.85
+Yobe,Jakusko,Dawasa Garin Buba,19/07/2022,68,24,2022-07-19,2022.0,7.0,Rainy,0.35294117647058826
+Yobe,Nguru,Garin Dole,2022-02-08 00:00:00,40,103,2022-02-08,2022.0,2.0,Dry,2.575
+Yobe,Nguru,GarinGawo,2022-02-08 00:00:00,45,96,2022-02-08,2022.0,2.0,Dry,2.1333333333333333
+Yobe,Karasuwa,Unspecified,18/08/2022,15,45,2022-08-18,2022.0,8.0,Rainy,3.0
+Yobe,Geidam,Unspecified,2022-02-08 00:00:00,28,48,2022-02-08,2022.0,2.0,Dry,1.7142857142857142
+Yobe,Jakusko,Unspecified,19/07/2022,40,65,2022-07-19,2022.0,7.0,Rainy,1.625
+Yobe,Yunusari,Unspecified,16/07/2022,47,85,2022-07-16,2022.0,7.0,Rainy,1.8085106382978724
+Yobe,Jakusko,Unspecified,13/09/2022,276,626,2022-09-13,2022.0,9.0,Rainy,2.2681159420289854
+Yobe,Bade,Unspecified,2022-02-08 00:00:00,33,79,2022-02-08,2022.0,2.0,Dry,2.393939393939394
+Yobe,Bursari,Unspecified,24/08/2022,164,217,2022-08-24,2022.0,8.0,Rainy,1.3231707317073171
+Yobe,Jakusko,Unspecified,2022-12-09 00:00:00,201,534,2022-12-09,2022.0,12.0,Dry,2.656716417910448
+Yobe,Karasuwa,Unspecified,2022-02-08 00:00:00,97,143,2022-02-08,2022.0,2.0,Dry,1.4742268041237114
+Yobe,Nguru,Unspecified,2022-02-08 00:00:00,99,204,2022-02-08,2022.0,2.0,Dry,2.0606060606060606
+Yobe,Tarmua,Unspecified,16/08/2022,78,187,2022-08-16,2022.0,8.0,Rainy,2.3974358974358974
+Yobe,Bursari,Unspecified,24/08/2022,148,225,2022-08-24,2022.0,8.0,Rainy,1.5202702702702702
+Yobe,Nangere,Unspecified,2022-02-08 00:00:00,44,159,2022-02-08,2022.0,2.0,Dry,3.6136363636363638
+Yobe,Fika,Unspecified,28/08/2022,52,69,2022-08-28,2022.0,8.0,Rainy,1.3269230769230769
+Yobe,Bursari,Unspecified,24/08/2022,7,23,2022-08-24,2022.0,8.0,Rainy,3.2857142857142856
+Yobe,Karasuwa,Unspecified,18/08/2022,25,53,2022-08-18,2022.0,8.0,Rainy,2.12
+Yobe,Fika,Garin Gage,28/08/2022,45,89,2022-08-28,2022.0,8.0,Rainy,1.9777777777777779
+Yobe,Jakusko,Garih Mallam Jahur,2022-10-09 00:00:00,156,209,2022-10-09,2022.0,10.0,Rainy,1.3397435897435896
+Yobe,Karasuwa,Gasma,2022-02-08 00:00:00,46,90,2022-02-08,2022.0,2.0,Dry,1.9565217391304348
+Yobe,Karasuwa,Gasma,18/08/2022,48,78,2022-08-18,2022.0,8.0,Rainy,1.625
+Yobe,Fika,Gawandi,2022-02-08 00:00:00,56,121,2022-02-08,2022.0,2.0,Dry,2.1607142857142856
+Yobe,Jakusko,Girgir,2022-02-08 00:00:00,56,107,2022-02-08,2022.0,2.0,Dry,1.9107142857142858
+Yobe,Jakusko,Girgir,2022-12-09 00:00:00,398,569,2022-12-09,2022.0,12.0,Dry,1.42964824120603
+Yobe,Jakusko,"Girgir, Muguram",19/07/2022,58,29,2022-07-19,2022.0,7.0,Rainy,0.5
+Yobe,Jakusko,Gogaram,2022-02-08 00:00:00,34,83,2022-02-08,2022.0,2.0,Dry,2.4411764705882355
+Yobe,Tarmua,Gonduram,16/08/2022,52,167,2022-08-16,2022.0,8.0,Rainy,3.2115384615384617
+Yobe,Potiskum,"Gongola, Ramin Kasa",2022-02-08 00:00:00,30,96,2022-02-08,2022.0,2.0,Dry,3.2
+Yobe,Bursari,Goniri Burin,24/08/2022,33,69,2022-08-24,2022.0,8.0,Rainy,2.090909090909091
+Yobe,Fune,Gubana,17/08/2022,115,211,2022-08-17,2022.0,8.0,Rainy,1.8347826086956522
+Yobe,Gulani,Gulani,1 5/07/2022,30,62,,,,Rainy,2.066666666666667
+Yobe,Geidam,Gumsa,19/07/2022,49,76,2022-07-19,2022.0,7.0,Rainy,1.5510204081632653
+Yobe,Geidam,Gumsa,2022-02-08 00:00:00,78,134,2022-02-08,2022.0,2.0,Dry,1.7179487179487178
+Yobe,Jakusko,Guyik,13/09/2022,45,104,2022-09-13,2022.0,9.0,Rainy,2.311111111111111
+Yobe,Gulani,Gwayo,2022-10-09 00:00:00,401,895,2022-10-09,2022.0,10.0,Rainy,2.2319201995012468
+Yobe,Nguru,"Hausari, Saban Fegi, Ramin Birki",2022-02-08 00:00:00,234,567,2022-02-08,2022.0,2.0,Dry,2.423076923076923
+Yobe,Fune,Jajere,17/08/2022,415,642,2022-08-17,2022.0,8.0,Rainy,1.546987951807229
+Yobe,Gujba,Jajere,30/08/2022,165,219,2022-08-30,2022.0,8.0,Rainy,1.3272727272727274
+Yobe,Karasuwa,Jajeri,18/08/2022,20,47,2022-08-18,2022.0,8.0,Rainy,2.35
+Yobe,Karasuwa,Jajimaji,2022-02-08 00:00:00,88,167,2022-02-08,2022.0,2.0,Dry,1.8977272727272727
+Yobe,Karasuwa,Jajimaji,18/08/2022,43,79,2022-08-18,2022.0,8.0,Rainy,1.8372093023255813
+Yobe,Jakusko,Jakusko,19/07/2022,158,128,2022-07-19,2022.0,7.0,Rainy,0.810126582278481
+Yobe,Jakusko,Jakusko,2022-02-08 00:00:00,52,107,2022-02-08,2022.0,2.0,Dry,2.0576923076923075
+Yobe,Jakusko,Jakusko,2022-12-09 00:00:00,270,468,2022-12-09,2022.0,12.0,Dry,1.7333333333333334
+Yobe,Fika,Janga Dole,28/08/2022,37,106,2022-08-28,2022.0,8.0,Rainy,2.864864864864865
+Yobe,Fika,Janga Siri,28/08/2022,23,67,2022-08-28,2022.0,8.0,Rainy,2.9130434782608696
+Yobe,Potiskum,Jebuwa,2022-02-08 00:00:00,34,139,2022-02-08,2022.0,2.0,Dry,4.088235294117647
+Yobe,Bursari,Jido,24/08/2022,19,34,2022-08-24,2022.0,8.0,Rainy,1.7894736842105263
+Yobe,Nangere,"Jigawa, Mazaga, Gandafura, Nahuta",2022-02-08 00:00:00,51,157,2022-02-08,2022.0,2.0,Dry,3.0784313725490198
+Yobe,Tarmua,Jumbam,16/08/2022,46,146,2022-08-16,2022.0,8.0,Rainy,3.1739130434782608
+Yobe,Fune,Kafage,17/08/2022,107,148,2022-08-17,2022.0,8.0,Rainy,1.3831775700934579
+Yobe,Geidam,"Kalaberi, Damakarwa, Malawango, Dalari, Ngulori, Kesala, Buwa, Daudari",21/09/2022,2106,1944,2022-09-21,2022.0,9.0,Rainy,0.9230769230769231
+Yobe,Bursari,Kaliyari,24/08/2022,98,145,2022-08-24,2022.0,8.0,Rainy,1.4795918367346939
+Yobe,Nguru,"Kantudu, Sabon Garin Kanuri, Kadawa",2022-02-08 00:00:00,94,146,2022-02-08,2022.0,2.0,Dry,1.553191489361702
+Yobe,Jakusko,Karage,19/07/2022,76,33,2022-07-19,2022.0,7.0,Rainy,0.4342105263157895
+Yobe,Karasuwa,Karasuwa Ga/u,2022-02-08 00:00:00,37,92,2022-02-08,2022.0,2.0,Dry,2.4864864864864864
+Yobe,Karasuwa,Karasuwa Galu,18/08/2022,35,78,2022-08-18,2022.0,8.0,Rainy,2.2285714285714286
+Yobe,Karasuwa,Karasuwa Garin Guna,2022-02-08 00:00:00,31,96,2022-02-08,2022.0,2.0,Dry,3.096774193548387
+Yobe,Karasuwa,Karasuwa Garin Guna,18/08/2022,25,53,2022-08-18,2022.0,8.0,Rainy,2.12
+Yobe,Jakusko,"Katamma, Lafiya Gwayo
+Katarko ..",19/07/2022,97329,42735,2022-07-19,2022.0,7.0,Rainy,0.43907776716086677
+Yobe,Bade,Kavayo,17/09/2022,128,206,2022-09-17,2022.0,9.0,Rainy,1.609375
+Yobe,Fune,Kayeri,17/08/2022,193,205,2022-08-17,2022.0,8.0,Rainy,1.0621761658031088
+Yobe,Jakusko,Kazir,2022-12-09 00:00:00,57,106,2022-12-09,2022.0,12.0,Dry,1.8596491228070176
+Yobe,Geidam,Kiri-Kasamma,21/09/2022,642,426,2022-09-21,2022.0,9.0,Rainy,0.6635514018691588
+Yobe,Gulani,Kojoli,2022-09-09 00:00:00,65,139,2022-09-09,2022.0,9.0,Rainy,2.1384615384615384
+Yobe,Damaturu,Kollere,16/08/2022,603,1157,2022-08-16,2022.0,8.0,Rainy,1.9187396351575456
+Yobe,Fune,Kollere,30/08/2022,35,98,2022-08-30,2022.0,8.0,Rainy,2.8
+Yobe,Bursari,Kotokomari,24/08/2022,47,147,2022-08-24,2022.0,8.0,Rainy,3.127659574468085
+Yobe,Fika,KukarGadu,28/08/2022,169,274,2022-08-28,2022.0,8.0,Rainy,1.621301775147929
+Yobe,Damaturu,Kukareta,2022-02-08 00:00:00,125,267,2022-02-08,2022.0,2.0,Dry,2.136
+Yobe,Damaturu,Kukuri and Chiromari,13/08/2022,37,95,2022-08-13,2022.0,8.0,Rainy,2.5675675675675675
+Yobe,Gujba,Kukuwa Tasha,2022-08-07 00:00:00,117,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Yobe,Gujba,Kukuwa Tasha,2022-08-07 00:00:00,117,264,2022-08-07,2022.0,8.0,Rainy,2.2564102564102564
+Yobe,Fune,Kukuwale,30/08/2022,100,317,2022-08-30,2022.0,8.0,Rainy,3.17
+Yobe,Fune,"Kukuwale, Bilam Fusam, Ruga, Gishiwa Dabuwa, Lamba Mai Adiko, Garin",,0,0,,,,Rainy,0.0
+Yobe,Potiskum,Danga,2022-02-08 00:00:00,75,189,2022-02-08,2022.0,2.0,Dry,2.52
+Yobe,Jakusko,Kurkushe,2022-02-08 00:00:00,26,34,2022-02-08,2022.0,2.0,Dry,1.3076923076923077
+Yobe,Jakusko,Kurkushe,2022-10-09 00:00:00,309,734,2022-10-09,2022.0,10.0,Rainy,2.3754045307443366
+Yobe,Geidam,Kusur Damakarwa,2022-02-08 00:00:00,36,79,2022-02-08,2022.0,2.0,Dry,2.1944444444444446
+Yobe,Gujba,Labba,30/08/2022,19,49,2022-08-30,2022.0,8.0,Rainy,2.5789473684210527
+Yobe,Gulani,Labba,2022-09-09 00:00:00,104,246,2022-09-09,2022.0,9.0,Rainy,2.3653846153846154
+Yobe,Potiskum,Lai /ai,22/08/2022,12,26,2022-08-22,2022.0,8.0,Rainy,2.1666666666666665
+Yobe,Damaturu,Lawan Fannami :,30/07/2022,37,69,2022-07-30,2022.0,7.0,Rainy,1.864864864864865
+Yobe,Bade,Lawan Musa,2022-02-08 00:00:00,56,45,2022-02-08,2022.0,2.0,Dry,0.8035714285714286
+Yobe,Potiskum,"Layin Palace, Tsohuwar Kwata",2022-02-08 00:00:00,36,94,2022-02-08,2022.0,2.0,Dry,2.611111111111111
+Yobe,Gujba,Likdir,2022-08-07 00:00:00,343,0,2022-08-07,2022.0,8.0,Rainy,0.0
+Yobe,Gujba,Likdir,2022-08-07 00:00:00,763,763,2022-08-07,2022.0,8.0,Rainy,1.0
+Yobe,Geidam,Lungun Kazamai,2022-02-08 00:00:00,30,78,2022-02-08,2022.0,2.0,Dry,2.6
+Yobe,Geidam,Ma'ana,19/07/2022,27,36,2022-07-19,2022.0,7.0,Rainy,1.3333333333333333
+Yobe,Bade,Madamuwa,18/09/2022,203,318,2022-09-18,2022.0,9.0,Rainy,1.5665024630541873
+Yobe,Damaturu,Madori,1S/08/2022,28,89,,,,Rainy,3.1785714285714284
+Yobe,Tarmua,Mafa,16/08/2022,57,179,2022-08-16,2022.0,8.0,Rainy,3.1403508771929824
+Yobe,Geidam,Maina Tulubka/Abujan Amare,2022-02-08 00:00:00,78,142,2022-02-08,2022.0,2.0,Dry,1.8205128205128205
+Yobe,Gujba,"Mairi, Kasatchia, Shuwari, Flatari, H.ausari, Ngomari, and Sabon Fegi",30/08/2022,2853,5265,2022-08-30,2022.0,8.0,Rainy,1.8454258675078865
+Yobe,Nangere,Maisandari,14/08/2022,127,245,2022-08-14,2022.0,8.0,Rainy,1.9291338582677164
+Yobe,Tarmua,Malam Matari,16/08/2022,123,309,2022-08-16,2022.0,8.0,Rainy,2.5121951219512195
+Yobe,Potiskum,Mamudo,2022-02-08 00:00:00,11,43,2022-02-08,2022.0,2.0,Dry,3.909090909090909
+Yobe,Potiskum,Mamudo,22/08/2022,12,31,2022-08-22,2022.0,8.0,Rainy,2.5833333333333335
+Yobe,Bursari,Mandada'a,16/08/2022,40,127,2022-08-16,2022.0,8.0,Rainy,3.175
+Yobe,Fune,Marmari,16/08/2022,79,124,2022-08-16,2022.0,8.0,Rainy,1.5696202531645569
+Yobe,Yusufari,Mayori,2022-02-08 00:00:00,6,24,2022-02-08,2022.0,2.0,Dry,4.0
+Yobe,Fika,Mutai,29/08/2022,531,1593,2022-08-29,2022.0,8.0,Rainy,3.0
+Yobe,Nguru,Nayinawa,2022-02-08 00:00:00,46,93,2022-02-08,2022.0,2.0,Dry,2.0217391304347827
+Yobe,Fune,Ngelzarma,17/08/2022,304,611,2022-08-17,2022.0,8.0,Rainy,2.0098684210526314
+Yobe,Potiskum,Ngojin,2022-02-08 00:00:00,16,65,2022-02-08,2022.0,2.0,Dry,4.0625
+Yobe,Gulani,Njibulwa and Yayum,15/07/2022,25,56,2022-07-15,2022.0,7.0,Rainy,2.24
+Yobe,Nangere,Old and New Nangere,14/08/2022,58,156,2022-08-14,2022.0,8.0,Rainy,2.689655172413793
+Yobe,Damaturu,Pompomari,2022-11-08 00:00:00,454,1256,2022-11-08,2022.0,11.0,Dry,2.7665198237885464
+Yobe,Geidam,Rimi,2022-02-08 00:00:00,35,98,2022-02-08,2022.0,2.0,Dry,2.8
+Yobe,Gulani,Ruhu,2022-10-09 00:00:00,74,107,2022-10-09,2022.0,10.0,Rainy,1.445945945945946
+Yobe,Nangere,Saban Garin Jakade,2022-02-08 00:00:00,45,134,2022-02-08,2022.0,2.0,Dry,2.977777777777778
+Yobe,Damaturu,Sasawa,15/08/2022,97,203,2022-08-15,2022.0,8.0,Rainy,2.0927835051546393
+Yobe,Bade,Sugoloci,18/09/2022,188,289,2022-09-18,2022.0,9.0,Rainy,1.5372340425531914
+Yobe,Bade,Sugum,16/09/2022,179,278,2022-09-16,2022.0,9.0,Rainy,1.553072625698324
+Yobe,Tarmua,Sungul Koka,16/08/2022,50,186,2022-08-16,2022.0,8.0,Rainy,3.72
+Yobe,Bade,Tagali,15/09/2022,267,524,2022-09-15,2022.0,9.0,Rainy,1.9625468164794007
+Yobe,Bade,Tagama,17/09/2022,234,496,2022-09-17,2022.0,9.0,Rainy,2.1196581196581197
+Yobe,Bade,Tagvirvir,16/09/2022,145,215,2022-09-16,2022.0,9.0,Rainy,1.4827586206896552
+Yobe,Jakusko,Tajuwa,2022-02-08 00:00:00,34,98,2022-02-08,2022.0,2.0,Dry,2.8823529411764706
+Yobe,Geidam,Tashan Toshia/Ganya Kura,2022-02-08 00:00:00,22,47,2022-02-08,2022.0,2.0,Dry,2.1363636363636362
+Yobe,Geidam,Toshia,19/07/2022,34,47,2022-07-19,2022.0,7.0,Rainy,1.3823529411764706
+Yobe,Nguru,Tshohuwar Nguru,2022-02-08 00:00:00,240,542,2022-02-08,2022.0,2.0,Dry,2.2583333333333333
+Yobe,Potiskum,Unguwar Bolewa,2022-02-08 00:00:00,18,89,2022-02-08,2022.0,2.0,Dry,4.944444444444445
+Yobe,Tarmua,"Unguwar Bulama, Lantewa.",16/08/2022,47,135,2022-08-16,2022.0,8.0,Rainy,2.872340425531915
+Yobe,Bade,"Usur, Dawayo",2022-02-08 00:00:00,30,97,2022-02-08,2022.0,2.0,Dry,3.2333333333333334
+Yobe,Karasuwa,Wachaka/,2022-02-08 00:00:00,24,59,2022-02-08,2022.0,2.0,Dry,2.4583333333333335
+Yobe,Karasuwa,Wachaka/ ..,18/08/2022,30,62,2022-08-18,2022.0,8.0,Rainy,2.066666666666667
+Yobe,Karasuwa,Waro,18/08/2022,18,43,2022-08-18,2022.0,8.0,Rainy,2.388888888888889
+Yobe,Damaturu,Waziri Ibrahim Extension,2022-10-08 00:00:00,33,105,2022-10-08,2022.0,10.0,Rainy,3.1818181818181817
+Yobe,Potiskum,"Yakana, Hausawa, Tandari",2022-02-08 00:00:00,42,89,2022-02-08,2022.0,2.0,Dry,2.119047619047619
+Yobe,Potiskum,Yerimaram,22/08/2022,21,44,2022-08-22,2022.0,8.0,Rainy,2.0952380952380953
+Yobe,Jakusko,Yim,2022-12-09 00:00:00,178,259,2022-12-09,2022.0,12.0,Dry,1.4550561797752808
+Yobe,Potiskum,"Yindiski, Arikime",2022-01-07 00:00:00,27,34,2022-01-07,2022.0,1.0,Dry,1.2592592592592593
+Yobe,Potiskum,Yindiski/Arikime,2022-01-07 00:00:00,17,0,2022-01-07,2022.0,1.0,Dry,0.0
+Yobe,Jakusko,Zabudum and Dachia,2022-02-08 00:00:00,23,68,2022-02-08,2022.0,2.0,Dry,2.9565217391304346
+Zamfara,Talata Mafara,"Ta/atar Mafara Town,Tsakuwa,Tafl<in Gusau,Tashar Kali,Maradun Town,Danbaza,Saminaka, Gummi Town.Anka Town,Bakura Town,Bungudu
+Town,Kauran Namoda Town,Maru Town, Tsafe Town",27/08/2022,12174,2256,2022-08-27,2022.0,8.0,Rainy,0.18531296205027106
+Zamfara,Gusau,Unspecified,2022-04-06 00:00:00,0,0,2022-04-06,2022.0,4.0,Rainy,0.0
